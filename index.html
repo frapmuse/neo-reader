@@ -76,69 +76,35 @@ h1,h2,h3{font-family:var(--display);font-weight:400;text-wrap:balance;margin:0}
 .text p{margin:0 0 1em}
 .text h3{font-size:1.2rem;margin:1.4em 0 .6em}
 .text hr{border:0;margin:2em auto;width:60px;height:12px;background:radial-gradient(circle,var(--muted) 1.5px,transparent 2px) 0 50%/20px 12px repeat-x;opacity:.6}
-.panel{--pc:#3d55b0;--pb:#e6eaf7;font-family:var(--ui);font-size:.92rem;line-height:1.5;margin:1.3em 0;padding:8px 14px 10px;border-radius:8px;background:var(--pb);border:1px solid color-mix(in srgb,var(--pc) 35%,transparent);border-left:5px solid var(--pc);font-variant-numeric:tabular-nums}
-.panel::before{display:block;font:800 .62rem var(--ui);letter-spacing:.16em;text-transform:uppercase;color:var(--pc);margin-bottom:4px;content:"System"}
-.panel p,.chat p{margin:0}.panel p+p{margin-top:4px;padding-top:4px;border-top:1px dashed color-mix(in srgb,var(--pc) 22%,transparent)}.chat p+p{margin-top:3px}
-.panel .lb{font-weight:800;color:var(--pc)}
-.k-announce{--pc:#a87a08;--pb:#f7eed6;text-align:center;border-left-width:1px;border-width:2px}.k-announce::before{content:"Announcement"}
-.k-warn{--pc:#c0392b;--pb:#fbe6e3}.k-warn::before{content:"Warning"}
-.k-hero{--pc:#7b3fb0;--pb:#f0e6f8}.k-hero::before{content:"Hero card"}
-.k-reward{--pc:#b5650d;--pb:#f9ead7}.k-reward::before{content:"Reward"}
-.k-quest{--pc:#0f7c86;--pb:#ddf1f3}.k-quest::before{content:"Quest"}
-.k-growth{--pc:#2e7d4f;--pb:#e0f2e7}.k-growth::before{content:"Growth"}
-.k-land{--pc:#5a6a2b;--pb:#ecefdc}.k-land::before{content:"Territory"}
-.gr,.st,.ti{font-weight:800;color:var(--c)}
-.gr{display:inline-block;min-width:1.6em;text-align:center;padding:0 5px;border-radius:5px;border:1px solid currentColor;font-size:.86em;line-height:1.35}
-.g0{--c:#7d7d7d}.g1{--c:#4f8a3c}.g2{--c:#2e8b57}.g3{--c:#2f6fd0}.g4{--c:#8b3fc0}.g5{--c:#d4600d}.g6{--c:#c0261d}.g7{--c:#b8860b}
-.g7.gr,.g7.st,.g7.ti{background:linear-gradient(90deg,#b8860b,#e0a800,#b8860b);-webkit-background-clip:text;background-clip:text;color:transparent}
-.g7.gr{border-color:#b8860b}
-.t1{--c:#7d7d7d}.t2{--c:#2e8b57}.t3{--c:#2f6fd0}.t4{--c:#8b3fc0}.t5{--c:#d4600d}.t6{--c:#c0261d}
-@media (prefers-color-scheme:dark){
-:root:not([data-theme="light"]) .panel{--pb:#1f2844}
-:root:not([data-theme="light"]) .k-announce{--pc:#f0c75e;--pb:#2e2817}
-:root:not([data-theme="light"]) .k-warn{--pc:#ff8a80;--pb:#3a2222}
-:root:not([data-theme="light"]) .k-hero{--pc:#c9a0f5;--pb:#2c2340}
-:root:not([data-theme="light"]) .k-reward{--pc:#f5a65b;--pb:#35281a}
-:root:not([data-theme="light"]) .k-quest{--pc:#6fd3dc;--pb:#1a3236}
-:root:not([data-theme="light"]) .k-growth{--pc:#7fd6a0;--pb:#1d3328}
-:root:not([data-theme="light"]) .k-land{--pc:#c4d27f;--pb:#262c1a}
-:root:not([data-theme="light"]) .panel.k-sys{--pc:#9fb0ff}
-:root:not([data-theme="light"]) .g0{--c:#a8a8a8}
-:root:not([data-theme="light"]) .g1{--c:#9bd18a}
-:root:not([data-theme="light"]) .g2{--c:#7fd6a0}
-:root:not([data-theme="light"]) .g3{--c:#7fb0ff}
-:root:not([data-theme="light"]) .g4{--c:#c99af5}
-:root:not([data-theme="light"]) .g5{--c:#ffa04d}
-:root:not([data-theme="light"]) .g6{--c:#ff6b5c}
-:root:not([data-theme="light"]) .t1{--c:#a8a8a8}
-:root:not([data-theme="light"]) .t2{--c:#7fd6a0}
-:root:not([data-theme="light"]) .t3{--c:#7fb0ff}
-:root:not([data-theme="light"]) .t4{--c:#c99af5}
-:root:not([data-theme="light"]) .t5{--c:#ffa04d}
-:root:not([data-theme="light"]) .t6{--c:#ff6b5c}
-}
-:root[data-theme="dark"] .panel{--pb:#1f2844}
-:root[data-theme="dark"] .k-announce{--pc:#f0c75e;--pb:#2e2817}
-:root[data-theme="dark"] .k-warn{--pc:#ff8a80;--pb:#3a2222}
-:root[data-theme="dark"] .k-hero{--pc:#c9a0f5;--pb:#2c2340}
-:root[data-theme="dark"] .k-reward{--pc:#f5a65b;--pb:#35281a}
-:root[data-theme="dark"] .k-quest{--pc:#6fd3dc;--pb:#1a3236}
-:root[data-theme="dark"] .k-growth{--pc:#7fd6a0;--pb:#1d3328}
-:root[data-theme="dark"] .k-land{--pc:#c4d27f;--pb:#262c1a}
-:root[data-theme="dark"] .panel.k-sys{--pc:#9fb0ff}
-:root[data-theme="dark"] .g0{--c:#a8a8a8}
-:root[data-theme="dark"] .g1{--c:#9bd18a}
-:root[data-theme="dark"] .g2{--c:#7fd6a0}
-:root[data-theme="dark"] .g3{--c:#7fb0ff}
-:root[data-theme="dark"] .g4{--c:#c99af5}
-:root[data-theme="dark"] .g5{--c:#ffa04d}
-:root[data-theme="dark"] .g6{--c:#ff6b5c}
-:root[data-theme="dark"] .t1{--c:#a8a8a8}
-:root[data-theme="dark"] .t2{--c:#7fd6a0}
-:root[data-theme="dark"] .t3{--c:#7fb0ff}
-:root[data-theme="dark"] .t4{--c:#c99af5}
-:root[data-theme="dark"] .t5{--c:#ffa04d}
-:root[data-theme="dark"] .t6{--c:#ff6b5c}
+/* Panels: game HUD windows (same dark glass look in both themes) */
+.panel{--pc:#7fa2ff;--pg:rgba(127,162,255,.35);position:relative;font-family:var(--ui);font-size:.92rem;line-height:1.55;margin:1.5em 0;padding:0 0 10px;
+ color:#e8ecf8;background:linear-gradient(180deg,rgba(22,30,58,.97),rgba(12,17,36,.97));border:1px solid var(--pg);border-radius:4px;
+ box-shadow:0 0 0 1px rgba(0,0,0,.35),0 0 18px var(--pg),inset 0 0 24px rgba(127,162,255,.06);font-variant-numeric:tabular-nums;overflow:hidden}
+.panel::before{content:"\25C6  System";display:block;padding:6px 14px;margin-bottom:6px;font:800 .66rem var(--ui);letter-spacing:.2em;text-transform:uppercase;color:var(--pc);
+ background:linear-gradient(90deg,var(--pg),transparent 85%);border-bottom:1px solid var(--pg);text-shadow:0 0 8px var(--pg)}
+.panel::after{content:"";position:absolute;inset:3px;pointer-events:none;
+ background:linear-gradient(var(--pc),var(--pc)) top left/12px 2px,linear-gradient(var(--pc),var(--pc)) top left/2px 12px,
+ linear-gradient(var(--pc),var(--pc)) top right/12px 2px,linear-gradient(var(--pc),var(--pc)) top right/2px 12px,
+ linear-gradient(var(--pc),var(--pc)) bottom left/12px 2px,linear-gradient(var(--pc),var(--pc)) bottom left/2px 12px,
+ linear-gradient(var(--pc),var(--pc)) bottom right/12px 2px,linear-gradient(var(--pc),var(--pc)) bottom right/2px 12px;background-repeat:no-repeat;opacity:.9}
+.panel p{margin:0;padding:3px 14px}
+.panel p+p{border-top:1px solid rgba(255,255,255,.06)}
+.panel .lb{font-weight:800;color:var(--pc);text-transform:uppercase;font-size:.78em;letter-spacing:.08em;margin-right:4px}
+.chat p{margin:0}.chat p+p{margin-top:3px}
+.k-announce{--pc:#ffd36b;--pg:rgba(255,211,107,.4);text-align:center}.k-announce::before{content:"\2726  Announcement  \2726";text-align:center;background:linear-gradient(90deg,transparent,var(--pg),transparent)}
+.k-announce p:first-of-type{font:400 1.05rem var(--display);letter-spacing:.06em;color:#ffe7a8}
+.k-warn{--pc:#ff7a6b;--pg:rgba(255,122,107,.4)}.k-warn::before{content:"\26A0  Warning"}
+.k-hero{--pc:#d3a6ff;--pg:rgba(211,166,255,.38)}.k-hero::before{content:"\2605  Hero card"}
+.k-reward{--pc:#ffb35c;--pg:rgba(255,179,92,.4)}.k-reward::before{content:"\2756  Reward"}
+.k-quest{--pc:#5fe0e8;--pg:rgba(95,224,232,.36)}.k-quest::before{content:"\2691  Quest"}
+.k-growth{--pc:#79e2a0;--pg:rgba(121,226,160,.36)}.k-growth::before{content:"\25B2  Growth"}
+.k-land{--pc:#d6e07a;--pg:rgba(214,224,122,.34)}.k-land::before{content:"\2302  Territory"}
+.gr,.st,.ti{font-weight:800;color:var(--c);text-shadow:0 0 8px color-mix(in srgb,var(--c) 55%,transparent)}
+.gr{display:inline-block;min-width:1.7em;text-align:center;padding:0 6px;border-radius:3px;border:1px solid currentColor;font-size:.84em;line-height:1.4;background:color-mix(in srgb,var(--c) 14%,transparent)}
+.g0{--c:#b4b4b4}.g1{--c:#a6dc8f}.g2{--c:#62e0a0}.g3{--c:#6fb1ff}.g4{--c:#cf95ff}.g5{--c:#ffa449}.g6{--c:#ff5e57}.g7{--c:#ffd24a}
+.g7.gr,.g7.st,.g7.ti{background:linear-gradient(90deg,#f7c948,#fff1b0,#f0b429);-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:none;filter:drop-shadow(0 0 6px rgba(255,210,74,.55))}
+.g7.gr{border-color:#f7c948}
+.t1{--c:#b4b4b4}.t2{--c:#62e0a0}.t3{--c:#6fb1ff}.t4{--c:#cf95ff}.t5{--c:#ffa449}.t6{--c:#ff5e57}
 .chat{font-family:var(--ui);font-size:.86rem;line-height:1.5;margin:1.2em 0;padding:10px 14px;border-radius:6px;background:var(--chat);border:1px dashed var(--line)}
 figure.ill{margin:1.6em 0;display:flex;flex-direction:column;gap:6px}
 figure.ill img{width:100%;border-radius:6px;display:block}
@@ -163,7 +129,7 @@ figure.ill figcaption{font-size:.8rem;color:var(--muted);text-align:center}
 </div></header>
 <main><div class="col" id="view"></div></main>
 <script>
-const CFG = {"books": [{"id": "neo", "title": "New Earth Online: Wrong Server Lord", "short": "Wrong Server Lord", "blurb": "A lightning strike reroutes Rizal Hamdan to the wrong server: China, 184 AD, an empty shore, and a system nobody else has.", "accent": "#33508f", "cover": "img/neo-cover.webp", "data": "data/neo.bin?v=5c69d915"}, {"id": "sah", "title": "The Spear and the Halberd", "short": "The Spear and the Halberd", "blurb": "On the first morning of the world, Bai Lang plants a Gold token on a riverbank in Yingchuan and opens his free draw.", "accent": "#8a3b2f", "cover": null, "data": "data/sah.bin?v=58e0c86a"}], "iter": 310000, "built": "2026-11-17 09:53 UTC"};
+const CFG = {"books": [{"id": "neo", "title": "New Earth Online: Wrong Server Lord", "short": "Wrong Server Lord", "blurb": "A lightning strike reroutes Rizal Hamdan to the wrong server: China, 184 AD, an empty shore, and a system nobody else has.", "accent": "#33508f", "cover": "img/neo-cover.webp", "data": "data/neo.bin?v=479d596d"}, {"id": "sah", "title": "The Spear and the Halberd", "short": "The Spear and the Halberd", "blurb": "On the first morning of the world, Bai Lang plants a Gold token on a riverbank in Yingchuan and opens his free draw.", "accent": "#8a3b2f", "cover": null, "data": "data/sah.bin?v=c0b53692"}], "iter": 310000, "built": "2026-11-17 09:55 UTC"};
 const $ = s => document.querySelector(s);
 const view = $('#view');
 const store = {
