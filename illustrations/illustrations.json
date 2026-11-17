@@ -10,7 +10,280 @@
     "book": "neo",
     "chapter": "1",
     "after": "Then I'll build it.",
-    "image": "illustrations/neo-001-wangyue-bay.jpg",
+    "image": "illustrations/neo-001-wangyue-bay.webp",
     "caption": "Ye Feng looks out over the empty bay."
+  },
+  {
+    "book": "neo",
+    "chapter": "2",
+    "after": "The moon had cleared the sea now.",
+    "image": "illustrations/neo-002-moonlit-pavilion.webp",
+    "caption": "Ye Feng and Luna look out over Wangyue Bay."
+  },
+  {
+    "book": "neo",
+    "chapter": "3",
+    "after": "One man, one fire and one tree.",
+    "image": "illustrations/neo-003-first-fire.webp",
+    "caption": "Ye Feng and Luna sit by their first fire beneath Xingmu."
+  },
+  {
+    "book": "neo",
+    "chapter": "4",
+    "after": "At Han Shuang standing at the top of the stream path with a stick for a spear, and Maui standing at the edge of the surf with nothing at all.",
+    "image": "illustrations/neo-004-sixteen.webp",
+    "caption": "Wangyue’s first settlers gather around the fire."
+  },
+  {
+    "book": "neo",
+    "chapter": "5",
+    "after": "It went in like a key into a lock.",
+    "image": "illustrations/neo-005-forty-tides.webp",
+    "caption": "Maui offers Ye Feng a sheath that has waited forty tides and more."
+  },
+  {
+    "book": "neo",
+    "chapter": "6",
+    "after": "Then he bowed to Han Xin, deeper than he had bowed to his lord.",
+    "image": "illustrations/neo-006-two-cards.webp",
+    "caption": "Qi Jiguang meets the general whose battles he studied."
+  },
+  {
+    "book": "neo",
+    "chapter": "7",
+    "after": "The girl stared at her.",
+    "image": "illustrations/neo-007-reunion.webp",
+    "caption": "Han Shuang and Yanzi find each other in the burned hamlet."
+  },
+  {
+    "book": "neo",
+    "chapter": "8",
+    "after": "He handed Ye Feng the arrow.",
+    "image": "illustrations/neo-008-the-arrow.webp",
+    "caption": "Han Xin hands Ye Feng the arrow after the fighting."
+  },
+  {
+    "book": "neo",
+    "chapter": "9",
+    "after": "At first light the next morning, Ye Feng came down to stand his own lesson and found sixty-three people waiting on the flat ground in the grey cold.",
+    "image": "illustrations/neo-009-first-light.webp",
+    "caption": "Wangyue’s first volunteers gather below Xingmu."
+  },
+  {
+    "book": "neo",
+    "chapter": "10",
+    "after": "He opened the door of the headman's house for the first time in nine days and stood in it.",
+    "image": "illustrations/neo-010-old-gu.webp",
+    "caption": "Old Gu opens his door to Ye Feng."
+  },
+  {
+    "book": "neo",
+    "chapter": "11",
+    "after": "Bayu did not shout.",
+    "image": "illustrations/neo-011-bayu.webp",
+    "caption": "Bayu keeps time on his battered wooden shield."
+  },
+  {
+    "book": "neo",
+    "chapter": "12",
+    "after": "The dawn chime came while they were still in the valley.",
+    "image": "illustrations/neo-012-return-at-dawn.webp",
+    "caption": "The people of Mulberry Ford head for the coast."
+  },
+  {
+    "book": "neo",
+    "chapter": "13",
+    "after": "You are making a bath, not a pond!",
+    "image": "illustrations/neo-013-salt-pans.webp",
+    "caption": "Mak Senah oversees Wangyue’s first salt pans."
+  },
+  {
+    "book": "neo",
+    "chapter": "14",
+    "after": "He saw her, and stopped, and after a moment came and sat on the sand a little way off, not too close.",
+    "image": "illustrations/neo-014-yanzi-at-the-bay.webp",
+    "caption": "Yanzi and Ye Feng sit by the glowing bay."
+  },
+  {
+    "book": "neo",
+    "chapter": "15",
+    "after": "Tie Shou did weep.",
+    "image": "illustrations/neo-015-the-iron-cart.webp",
+    "caption": "Tie Shou sees the cart of iron bars."
+  },
+  {
+    "book": "neo",
+    "chapter": "16",
+    "after": "Then they waited.",
+    "image": "illustrations/neo-016-starlight.webp",
+    "caption": "Ye Feng waits in the stubble below the estate wall."
+  },
+  {
+    "book": "neo",
+    "chapter": "17",
+    "after": "The Xingmu was glowing.",
+    "image": "illustrations/neo-017-golden-xingmu.webp",
+    "caption": "Xingmu turns gold as the column comes home."
+  },
+  {
+    "book": "neo",
+    "chapter": "18",
+    "after": "I need them to shoot once more.",
+    "image": "illustrations/neo-018-listening-slope.webp",
+    "caption": "Saeli listens into the dark."
+  },
+  {
+    "book": "neo",
+    "chapter": "19",
+    "after": "We are halfway, my lord.",
+    "image": "illustrations/neo-019-halfway.webp",
+    "caption": "Han Xin and Ye Feng watch the valley from the wall."
+  },
+  {
+    "book": "neo",
+    "chapter": "20",
+    "after": "You jumped off the wall.",
+    "image": "illustrations/neo-020-red-moon.webp",
+    "caption": "Han Shuang finds Ye Feng below the wall."
+  },
+  {
+    "book": "neo",
+    "chapter": "21",
+    "after": "It's for your mother.",
+    "image": "illustrations/neo-021-salt-jar.webp",
+    "caption": "Ye Feng offers a traveler his last jar of salt."
+  },
+  {
+    "book": "neo",
+    "chapter": "22",
+    "after": "She opened the Ledger to the front, and the lines came up, filling themselves one after another.",
+    "image": "illustrations/neo-022-territory-page.webp",
+    "caption": "Luna opens the Moon Ledger to Wangyue’s territory page."
+  },
+  {
+    "book": "neo",
+    "chapter": "23",
+    "after": "Ye Feng stood on the slope by the Xingmu and looked down at all of it, and then up, past the headland, at the sea.",
+    "image": "illustrations/neo-023-xingmu-overlook.webp",
+    "caption": "Ye Feng looks down over a growing Wangyue."
+  },
+  {
+    "book": "neo",
+    "chapter": "24",
+    "after": "They rode back through Stone Gate with the girls on the carts and the captured horses behind them, and the miller came out of his burned barn and saw his daughter in the second cart and sat down in the road.",
+    "image": "illustrations/neo-024-daughter-returns.webp",
+    "caption": "A miller sees his daughter return to Stone Gate."
+  },
+  {
+    "book": "neo",
+    "chapter": "25",
+    "after": "I am not too old for that.",
+    "image": "illustrations/neo-025-tan-wu.webp",
+    "caption": "Tan Wu walks beside Qinglei on the road to Wangyue."
+  },
+  {
+    "book": "neo",
+    "chapter": "26",
+    "after": "Everyone looked at him.",
+    "image": "illustrations/neo-026-commons-table.webp",
+    "caption": "Ye Feng chooses where to stand."
+  },
+  {
+    "book": "neo",
+    "chapter": "27",
+    "after": "Twenty-two lights on the water, coming round the headland in a long swaying line toward the reef gap.",
+    "image": "illustrations/neo-027-lights-on-water.webp",
+    "caption": "Lights round the headland at high tide."
+  },
+  {
+    "book": "neo",
+    "chapter": "28",
+    "after": "Ye Feng stayed kneeling beside him on the wet sand until he was sure, and then a while longer, and the youngest boy sat beside them both with his face in his hands and did not make a sound.",
+    "image": "illustrations/neo-028-wet-sand.webp",
+    "caption": "Ye Feng stays beside Guo Heng at the water’s edge."
+  },
+  {
+    "book": "neo",
+    "chapter": "29",
+    "after": "He was small and weathered and brown, of no age at all, in a sailor's short jacket.",
+    "image": "illustrations/neo-029-old-crab.webp",
+    "caption": "A weathered pilot brings his coaster through the reef."
+  },
+  {
+    "book": "neo",
+    "chapter": "30",
+    "after": "Old Crab looked at him for a long moment.",
+    "image": "illustrations/neo-030-coaster-in-reeds.webp",
+    "caption": "Old Crab takes the rescued passengers into the reeds."
+  },
+  {
+    "book": "neo",
+    "chapter": "31",
+    "after": "The Heron went backwards off the end of the jetty into the slow brown river, and the grey cloak spread out on the water, and then the river took it.",
+    "image": "illustrations/neo-031-grey-cloak.webp",
+    "caption": "The river carries the Heron’s cloak away."
+  },
+  {
+    "book": "neo",
+    "chapter": "32",
+    "after": "He closed the book.",
+    "image": "illustrations/neo-032-black-book.webp",
+    "caption": "Old Crab waits for the man in blue to answer."
+  },
+  {
+    "book": "neo",
+    "chapter": "33",
+    "after": "He read it alone, in the empty hall, with the shutters open on the bay.",
+    "image": "illustrations/neo-033-sealed-letter.webp",
+    "caption": "Ye Feng reads Aisyah’s letter in the empty hall."
+  },
+  {
+    "book": "neo",
+    "chapter": "34",
+    "after": "Lady Wang smiled very slightly.",
+    "image": "illustrations/neo-034-lady-wang.webp",
+    "caption": "Lady Wang tells Ye Feng what happens when the pirates find a full wall."
+  },
+  {
+    "book": "neo",
+    "chapter": "35",
+    "after": "And the red sail.",
+    "image": "illustrations/neo-035-red-sail.webp",
+    "caption": "Maui brings word from the harbour."
+  },
+  {
+    "book": "neo",
+    "chapter": "36",
+    "after": "For the first time, something moved in the giant's face.",
+    "image": "illustrations/neo-036-the-crabs-boy.webp",
+    "caption": "One Ear recognizes the boy Ye Feng is asking about."
+  },
+  {
+    "book": "neo",
+    "chapter": "37",
+    "after": "When the land is ready, they come and knock.",
+    "image": "illustrations/neo-037-guntur-at-the-gate.webp",
+    "caption": "A stranger and his grey stallion arrive at Wangyue’s gate."
+  },
+  {
+    "book": "neo",
+    "chapter": "38",
+    "after": "Three thousand people with their backs to a gate that would not open.",
+    "image": "illustrations/neo-038-closed-gate.webp",
+    "caption": "Refugees shelter below Huang’s closed gate."
+  },
+  {
+    "book": "neo",
+    "chapter": "39",
+    "after": "He looked at the ring of fires slowly closing round them in the dark.",
+    "image": "illustrations/neo-039-ring-of-fires.webp",
+    "caption": "Ye Feng and Han Xin watch the fires rise around Huang."
+  },
+  {
+    "book": "neo",
+    "chapter": "40",
+    "after": "Taishi Ci lay in the ash beside Ye Feng with his long bow on the ground in front of him and three black-fletched arrows laid out beside it, side by side, very neat.",
+    "image": "illustrations/neo-040-black-feathers.webp",
+    "caption": "Taishi Ci and Ye Feng wait beneath paling stars."
   }
 ]
