@@ -5,5 +5,12 @@
     "after": "Every light in the hall turned white.",
     "image": "illustrations/neo-prologue.webp",
     "caption": "The upload hall on the night of the storm."
+  },
+  {
+    "book": "neo",
+    "chapter": "1",
+    "after": "Then I'll build it.",
+    "image": "illustrations/neo-001-wangyue-bay.jpg",
+    "caption": "Ye Feng looks out over the empty bay."
   }
 ]
