@@ -12,5 +12,12 @@
     "after": "Then I'll build it.",
     "image": "illustrations/neo-001-wangyue-bay.jpg",
     "caption": "Ye Feng looks out over the empty bay."
+  },
+  {
+    "book": "neo",
+    "chapter": "2",
+    "after": "The moon had cleared the sea now.",
+    "image": "illustrations/neo-002-moonlit-pavilion.jpg",
+    "caption": "Ye Feng and Luna look out over Wangyue Bay."
   }
 ]
