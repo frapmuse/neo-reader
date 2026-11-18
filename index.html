@@ -115,6 +115,8 @@ figure.ill figcaption{font-size:.8rem;color:var(--muted);text-align:center}
 .pager small{color:var(--muted);font:700 .7rem var(--ui);letter-spacing:.12em;text-transform:uppercase}
 .progress{position:fixed;left:0;right:0;top:0;height:3px;z-index:11;pointer-events:none}
 .progress i{display:block;height:100%;width:0;background:var(--accent)}
+#upd{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:20;display:flex;gap:12px;align-items:center;padding:10px 12px 10px 16px;border-radius:10px;background:var(--surface);border:1px solid var(--line);box-shadow:0 8px 30px rgba(0,0,0,.3);font-weight:600;width:max-content;max-width:calc(100% - 32px)}
+#upd .btn{padding:8px 14px}
 .foot{font-size:.78rem;color:var(--muted);text-align:center}
 </style>
 </head>
@@ -129,7 +131,7 @@ figure.ill figcaption{font-size:.8rem;color:var(--muted);text-align:center}
 </div></header>
 <main><div class="col" id="view"></div></main>
 <script>
-const CFG = {"books": [{"id": "neo", "title": "New Earth Online: Wrong Server Lord", "short": "Wrong Server Lord", "blurb": "A lightning strike reroutes Rizal Hamdan to the wrong server: China, 184 AD, an empty shore, and a system nobody else has.", "accent": "#33508f", "cover": "img/neo-cover.webp", "data": "data/neo.bin?v=e8dd60cc"}, {"id": "sah", "title": "The Spear and the Halberd", "short": "The Spear and the Halberd", "blurb": "On the first morning of the world, Bai Lang plants a Gold token on a riverbank in Yingchuan and opens his free draw.", "accent": "#8a3b2f", "cover": "img/sah-cover.webp", "data": "data/sah.bin?v=35beacd8"}], "iter": 310000, "built": "2026-11-18 01:25 UTC"};
+const CFG = {"books": [{"id": "neo", "title": "New Earth Online: Wrong Server Lord", "short": "Wrong Server Lord", "blurb": "A lightning strike reroutes Rizal Hamdan to the wrong server: China, 184 AD, an empty shore, and a system nobody else has.", "accent": "#33508f", "cover": "img/neo-cover.webp", "data": "data/neo.bin?v=c943635c"}, {"id": "sah", "title": "The Spear and the Halberd", "short": "The Spear and the Halberd", "blurb": "On the first morning of the world, Bai Lang plants a Gold token on a riverbank in Yingchuan and opens his free draw.", "accent": "#8a3b2f", "cover": "img/sah-cover.webp", "data": "data/sah.bin?v=3290224e"}], "iter": 310000, "built": "2026-11-18 10:20 UTC"};
 const $ = s => document.querySelector(s);
 const view = $('#view');
 const store = {
@@ -261,6 +263,18 @@ addEventListener('keydown', e => {
 $('#fsm').onclick = () => setFs(-0.06); $('#fsp').onclick = () => setFs(0.06);
 function setFs(d){ fs = Math.min(1.5, Math.max(0.86, +(fs+d).toFixed(2))); document.documentElement.style.setProperty('--fs', fs+'rem'); store.set('fs', fs); }
 $('#thm').onclick = () => { const dark = matchMedia('(prefers-color-scheme: dark)').matches; const cur = document.documentElement.getAttribute('data-theme') || (dark?'dark':'light'); theme = cur==='dark'?'light':'dark'; document.documentElement.setAttribute('data-theme', theme); store.set('theme', theme); };
+// New chapters pushed while the app was open or cached: check and offer a refresh.
+async function checkUpdate(){
+ try { const r = await fetch('version.json?t=' + Date.now(), {cache:'no-store'}); if (!r.ok) return; const v = await r.json();
+  if (v.built && v.built !== CFG.built && !document.getElementById('upd')){
+   const d = document.createElement('div'); d.id = 'upd';
+   d.innerHTML = '<span>New chapters are ready.</span><button class="btn" type="button">Refresh</button>';
+   d.querySelector('button').onclick = () => location.reload();
+   document.body.appendChild(d);
+  } } catch(e){}
+}
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') checkUpdate(); });
+setInterval(checkUpdate, 15*60*1000); setTimeout(checkUpdate, 4000);
 if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
 (async () => {
  const pw = store.get('pw', null);
