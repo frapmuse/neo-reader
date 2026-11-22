@@ -519,6 +519,90 @@
  },
  {
   "book": "neo",
+  "chapter": "73",
+  "after": "In front of it was a table of black stone, and on the table, nothing at all.",
+  "image": "illustrations/neo-073-the-hall-of-lots.webp",
+  "caption": "The Lotkeeper opens the first sale."
+ },
+ {
+  "book": "neo",
+  "chapter": "74",
+  "after": "Then she reached out and rang the red bell at her seat, once, hard, so that the sound went all the way up into the painted sky.",
+  "image": "illustrations/neo-074-the-red-bell.webp",
+  "caption": "Su Qingluan rings the red bell."
+ },
+ {
+  "book": "neo",
+  "chapter": "75",
+  "after": "Ye Wan'er had already crouched beside the mark with her slate on her knee, writing down the fees she meant to charge, and Mi Zhu, after a moment, crouched down beside her and began, very gently, to argue.",
+  "image": "illustrations/neo-075-free-port.webp",
+  "caption": "The Free Port seal on the harbour steps."
+ },
+ {
+  "book": "neo",
+  "chapter": "76",
+  "after": "Mak Senah stood with both hands holding the brim of her hat and said nothing at all for a long time.",
+  "image": "illustrations/neo-076-salt-terraces.webp",
+  "caption": "The salt terraces appear on the Gull Isles cliff."
+ },
+ {
+  "book": "neo",
+  "chapter": "77",
+  "after": "Eight hundred spear points came over the top of the cart wall at once, in two rows, the front row low and the back row high, as Qi Jiguang had drilled every man in Wangyue to stand.",
+  "image": "illustrations/neo-077-the-cart-wall.webp",
+  "caption": "The cart wall at Kunyu."
+ },
+ {
+  "book": "neo",
+  "chapter": "78",
+  "after": "He dropped it in the pit.",
+  "image": "illustrations/neo-078-the-headcloths.webp",
+  "caption": "Hou Cheng burns his yellow headcloth."
+ },
+ {
+  "book": "neo",
+  "chapter": "79",
+  "after": "\"We have no money,\" said the man called Gao Shun. \"We have hands. We will work for it.\"",
+  "image": "illustrations/neo-079-gao-shun-at-the-gate.webp",
+  "caption": "Gao Shun comes to the wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "80",
+  "after": "\"Then I will have to drink yours, Captain,\" he said, wiping his mouth. \"Every time. For the rest of our lives. It is the least a friend can do.\"",
+  "image": "illustrations/neo-080-i-do-not-drink.webp",
+  "caption": "Gao Shun does not drink."
+ },
+ {
+  "book": "neo",
+  "chapter": "81",
+  "after": "Now the sun came up behind the column, throwing their shadows long in front of them down the road toward Beihai",
+  "image": "illustrations/neo-081-the-road-west.webp",
+  "caption": "The column marches for Beihai."
+ },
+ {
+  "book": "neo",
+  "chapter": "82",
+  "after": "A second followed it. Then a third.",
+  "image": "illustrations/neo-082-three-fire-arrows.webp",
+  "caption": "Three fire arrows over Beihai."
+ },
+ {
+  "book": "neo",
+  "chapter": "83",
+  "after": "Guan Yu rode forward, and swung the long blade once, and the banner pole came down.",
+  "image": "illustrations/neo-083-the-yellow-banner-falls.webp",
+  "caption": "Guan Yu brings down Guan Hai's banner."
+ },
+ {
+  "book": "neo",
+  "chapter": "84",
+  "after": "He laid his long bow on the floor in front of him.",
+  "image": "illustrations/neo-084-taishi-ci-kneels.webp",
+  "caption": "Taishi Ci swears to Wangyue."
+ },
+ {
+  "book": "neo",
   "chapter": "85",
   "after": "It was a man from Beihai, Ye Feng saw.",
   "image": "illustrations/neo-083-a-voice-from-beihai.webp",
@@ -586,5 +670,152 @@
   "after": "and Han Xin ate.",
   "image": "illustrations/neo-092-breakfast.webp",
   "caption": "Breakfast on the beach after Jingxing."
+ },
+ {
+  "book": "neo",
+  "chapter": "95",
+  "after": "\"Brother Tian,\" said Ye Chuan, still on his back. \"Come and be a tiger. You are already a tiger. You only have to get down.\"",
+  "image": "illustrations/neo-095-the-bear.webp",
+  "caption": "Hua Tuo teaches the Five Animals play."
+ },
+ {
+  "book": "neo",
+  "chapter": "96",
+  "after": "It went round the hall like a stone through ice.",
+  "image": "illustrations/neo-096-the-waystones.webp",
+  "caption": "Ye Feng outbids the Nine Gates for the waystones."
+ },
+ {
+  "book": "neo",
+  "chapter": "97",
+  "after": "High on the far side of the hall, Shen Yan rose from his seat, which no lord had done all day.",
+  "image": "illustrations/neo-097-the-sealed-lot.webp",
+  "caption": "Shen Yan wins the Gold Territory Token."
+ },
+ {
+  "book": "neo",
+  "chapter": "98",
+  "after": "\"I can't tell,\" he said at last.",
+  "image": "illustrations/neo-098-mother-lin.webp",
+  "caption": "Mother Lin's pearl test."
+ },
+ {
+  "book": "neo",
+  "chapter": "99",
+  "after": "\"Tell Zang Ba thank you for the wine,\" he said. \"Tell him I'll open it in his house.\"",
+  "image": "illustrations/neo-099-the-herald.webp",
+  "caption": "Zang Ba's herald comes down the gorge."
+ },
+ {
+  "book": "neo",
+  "chapter": "100",
+  "after": "The lord came over the edge beside him a moment later, and then Ye Shuang, and then Mo Lin, and then, one after another, the soldiers of the Xingmu Guard, crawling over the lip of the cliff in the dark and lying down flat in the grass without a sound.",
+  "image": "illustrations/neo-100-hawks-ladder.webp",
+  "caption": "Over the top of the Hawk's Ladder."
+ },
+ {
+  "book": "neo",
+  "chapter": "101",
+  "after": "Ye Feng stood on the ridge of the roof between them and looked down the gorge.",
+  "image": "illustrations/neo-101-banners-on-the-roof.webp",
+  "caption": "The two banners rise over Stone Gate."
+ },
+ {
+  "book": "neo",
+  "chapter": "102",
+  "after": "\"Lord of the sea! Next time, I choose the season! And the door!\"",
+  "image": "illustrations/neo-102-zang-ba-rope.webp",
+  "caption": "Zang Ba escapes down the rope."
+ },
+ {
+  "book": "neo",
+  "chapter": "103",
+  "after": "Ye Feng planted the token at dawn, beside the well.",
+  "image": "illustrations/neo-103-taishan-well.webp",
+  "caption": "Taishan is founded at the well-house."
+ },
+ {
+  "book": "neo",
+  "chapter": "104",
+  "after": "Seri sewed the eighth patch onto the banner that night, in the Heaven's Shields' hall, by lamplight.",
+  "image": "illustrations/neo-104-patch-eight.webp",
+  "caption": "Seri sews the eighth patch."
+ },
+ {
+  "book": "neo",
+  "chapter": "105",
+  "after": "At the end of the hall, Ye Chuan had come away from the doorway.",
+  "image": "illustrations/neo-105-the-plum-seal.webp",
+  "caption": "The plum-flower seal at the banquet."
+ },
+ {
+  "book": "neo",
+  "chapter": "106",
+  "after": "\"Then she'd be a grown woman now. Somewhere. If she's alive, she's at the far end of that thread, not this one. I'd like to follow it all the way, before anybody cuts it.\" He paused. \"I'm not asking you to forget. I'm asking you to wait.\"",
+  "image": "illustrations/neo-106-the-wall.webp",
+  "caption": "Ye Chuan on the Throat Wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "107",
+  "after": "\"More than fifty ox carts, Master Xiao,\" she said. \"Loaded to the axle. Perhaps sixty, on these roads.\"",
+  "image": "illustrations/neo-107-the-ox-carts.webp",
+  "caption": "What twenty million cash weighs."
+ },
+ {
+  "book": "neo",
+  "chapter": "108",
+  "after": "\"Green Thunder,\" he said, with his hand still on the colt's forehead, and nodded back at the dark horse at the gate. \"And Red Thunder. Chilei.\"",
+  "image": "illustrations/neo-108-chilei.webp",
+  "caption": "Chilei is named."
+ },
+ {
+  "book": "neo",
+  "chapter": "109",
+  "after": "\"Three months, Brother,\" she said, very quietly. \"And the bread is still warm.\"",
+  "image": "illustrations/neo-109-the-warm-bread.webp",
+  "caption": "Home, three months later in the Tower, a single night outside."
+ },
+ {
+  "book": "neo",
+  "chapter": "110",
+  "after": "\"The stoves,\" said Ye Chuan, with his mouth full of tea leaves. \"Pang Juan counts the stoves.\"",
+  "image": "illustrations/neo-110-the-stoves.webp",
+  "caption": "Han Xin tells the story of Maling."
+ },
+ {
+  "book": "neo",
+  "chapter": "111",
+  "after": "The thin, ink-stained hand took the crutch out of Wei Chengzhi's hands.",
+  "image": "illustrations/neo-111-sun-bin.webp",
+  "caption": "Sun Bin in the covered cart."
+ },
+ {
+  "book": "neo",
+  "chapter": "112",
+  "after": "Fei Lian came up the last open stretch of the slope alone, faster than a running horse.",
+  "image": "illustrations/neo-112-fei-lian.webp",
+  "caption": "Fei Lian charges the ridge."
+ },
+ {
+  "book": "neo",
+  "chapter": "113",
+  "after": "They had been waiting all night. He could see it in their faces.",
+  "image": "illustrations/neo-113-the-wall-shouts.webp",
+  "caption": "Wangyue welcomes the Maling party home."
+ },
+ {
+  "book": "neo",
+  "chapter": "114",
+  "after": "Then a light appeared at the very top of the storehouse tower.",
+  "image": "illustrations/neo-114-the-tower-light.webp",
+  "caption": "The Daughters of the Sky take the storehouse tower."
+ },
+ {
+  "book": "neo",
+  "chapter": "115",
+  "after": "\"Then we will both catch nothing,\" said Jiang Ziya at last, \"and have a great deal of time to talk.\"",
+  "image": "illustrations/neo-115-the-straight-hook.webp",
+  "caption": "Ye Feng fishes beside Jiang Ziya."
  }
 ]
