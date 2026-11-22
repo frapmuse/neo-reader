@@ -863,7 +863,7 @@
  {
   "book": "bmt",
   "chapter": "ch011",
-  "after": "Counting, he thought. She's got them counting.",
+  "after": "They were all crouched down below the gunwales in a tight knot, watching her face, and their mouths were moving too.",
   "image": "illustrations/n3-007-counting.webp",
   "caption": "Arrows over the Ru, and the children counting."
  },
@@ -876,8 +876,8 @@
  },
  {
   "book": "bmt",
-  "chapter": "ch015",
-  "after": "There was a wall.",
+  "chapter": "ch016",
+  "after": "as if the mountain itself had built it in the night and was waiting to see who would come.",
   "image": "illustrations/n3-009-blackmoon-hold.webp",
   "caption": "Dawn on the mountain: Blackmoon Hold, raised in a night."
  },
@@ -887,5 +887,278 @@
   "after": "Cheng Jian sat on it and looked at nothing in particular.",
   "image": "illustrations/n3-010-the-twelfth-fall.webp",
   "caption": "The twelfth time, the horse did not throw him."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch001",
+  "after": "She smiled the faint, ancient smile of a woman who had been right about everything for a very long time.",
+  "image": "illustrations/n3-011-the-star-tree.webp",
+  "caption": "Morning under the Star Tree, on the day Ye Shuo leaves home."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch003",
+  "after": "The mare shrieked. Mo Yan shrieked. The column, for the first time in three days, broke step entirely, because nobody could ride straight for laughing.",
+  "image": "illustrations/n3-012-the-ear.webp",
+  "caption": "Heiyue bites the grey mare's ear, and the whole column breaks step."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch006",
+  "after": "Then the mist opened in front of him, and the camp was there.",
+  "image": "illustrations/n3-013-the-moon-ford.webp",
+  "caption": "Out of the chestnut wood at dawn, between the empty fires."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch009",
+  "after": "Nobody in the boats moved.",
+  "image": "illustrations/n3-014-the-toll-boats.webp",
+  "caption": "Three toll boats, boxed in on the ford."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch012",
+  "after": "He had never in his life known what to do when people did this.",
+  "image": "illustrations/n3-015-the-slipway.webp",
+  "caption": "The Fan household kneels on the slipway."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch014",
+  "after": "\"You're the one from the ford,\" she whispered. \"The black horsemen.\"",
+  "image": "illustrations/n3-016-the-cliff.webp",
+  "caption": "An old woman on the wall at the top of the cliff path."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch016",
+  "after": "Nobody said anything for a while.",
+  "image": "illustrations/n3-017-the-troop-arrives.webp",
+  "caption": "The troop comes up the mountain and sees the Hold."
+ },
+ {
+  "book": "neo",
+  "chapter": "116",
+  "after": "\"The realm is not one man's realm,\" he said.",
+  "image": "illustrations/neo-116-the-fishing-stone.webp",
+  "caption": "Two straight hooks on a winter pool."
+ },
+ {
+  "book": "neo",
+  "chapter": "117",
+  "after": "He was right. Han Xin had gone down on one knee in the dust of the gateway",
+  "image": "illustrations/neo-117-the-throat-wall.webp",
+  "caption": "Jiang Ziya at the Throat Wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "118",
+  "after": "\"These,\" he said to Han Xin, and pointed with his staff",
+  "image": "illustrations/neo-118-the-forty.webp",
+  "caption": "Jiang Ziya chooses the forty who need it most."
+ },
+ {
+  "book": "neo",
+  "chapter": "119",
+  "after": "\"Feed the first ones,\" said Jiang Ziya.",
+  "image": "illustrations/neo-119-the-council.webp",
+  "caption": "The month-end council hears that Guangzong has fallen."
+ },
+ {
+  "book": "neo",
+  "chapter": "120",
+  "after": "She looked up at him in the lantern light with her wide grave Eldari eyes",
+  "image": "illustrations/neo-120-the-lantern.webp",
+  "caption": "After Stage Eleven, the reckoning on the sand."
+ },
+ {
+  "book": "neo",
+  "chapter": "121",
+  "after": "Then one man walked down into the water from the far bank, alone, on foot, and began to wade across towards them.",
+  "image": "illustrations/neo-121-the-upper-ford.webp",
+  "caption": "Andika wades out to the first refugees."
+ },
+ {
+  "book": "neo",
+  "chapter": "122",
+  "after": "He did not pray for long. He never did.",
+  "image": "illustrations/neo-122-sunset-prayer.webp",
+  "caption": "Sunset prayer on the beach, and three fishermen beside him."
+ },
+ {
+  "book": "neo",
+  "chapter": "123",
+  "after": "She was tall for a woman of that age and that country",
+  "image": "illustrations/neo-123-the-queen.webp",
+  "caption": "Fu Hao comes out through the chariot ring."
+ },
+ {
+  "book": "neo",
+  "chapter": "124",
+  "after": "Fu Hao met him from the car.",
+  "image": "illustrations/neo-124-the-chariot.webp",
+  "caption": "The queen of Shang closes the door."
+ },
+ {
+  "book": "neo",
+  "chapter": "125",
+  "after": "Under the plum blossom banner, Aisyah stood very still for a moment when the queen stopped in front of her.",
+  "image": "illustrations/neo-125-her-reason.webp",
+  "caption": "Fu Hao chooses Lady Aisyah."
+ },
+ {
+  "book": "sah",
+  "chapter": "001",
+  "after": "Qiushui, Yue Ling thought. Autumn Water. Another thing she knew without knowing how.",
+  "image": "illustrations/sah-001-born-of-the-ford.webp",
+  "caption": "Born of the ford, on the first morning of the world."
+ },
+ {
+  "book": "sah",
+  "chapter": "002",
+  "after": "\"Now,\" she said, and stood up on the roof, and lifted White Lotus so that the moon caught the blade.",
+  "image": "illustrations/sah-002-the-granary-roof.webp",
+  "caption": "The signal on the granary roof."
+ },
+ {
+  "book": "sah",
+  "chapter": "003",
+  "after": "Wei Shan pointed upstream, to where the river bent around a wooded hill and disappeared.",
+  "image": "illustrations/sah-003-the-other-crossing.webp",
+  "caption": "Wei Shan shows her the other crossing."
+ },
+ {
+  "book": "sah",
+  "chapter": "004",
+  "after": "By mid-morning they could do it.",
+  "image": "illustrations/sah-004-push.webp",
+  "caption": "Two hundred farmers learn to push."
+ },
+ {
+  "book": "sah",
+  "chapter": "005",
+  "after": "She stepped up onto the top log of the wall",
+  "image": "illustrations/sah-005-pei-yuan.webp",
+  "caption": "Across the water, Yue Ling answers Pei Yuan."
+ },
+ {
+  "book": "sah",
+  "chapter": "006",
+  "after": "She rode Qiushui out onto the gravel bar on the far side of the island",
+  "image": "illustrations/sah-006-the-gravel-bar.webp",
+  "caption": "One rider, one spear, on the gravel bar."
+ },
+ {
+  "book": "sah",
+  "chapter": "007",
+  "after": "Nobody wants to stand in front of a horse coming out of a fire.",
+  "image": "illustrations/sah-007-through-the-fire.webp",
+  "caption": "Qiushui jumps the fire."
+ },
+ {
+  "book": "sah",
+  "chapter": "008",
+  "after": "They buried them at sunset.",
+  "image": "illustrations/sah-008-burial-at-sunset.webp",
+  "caption": "Seventeen graves at sunset."
+ },
+ {
+  "book": "sah",
+  "chapter": "009",
+  "after": "It was one of the four servants. The friendly one, who had given the children sweets.",
+  "image": "illustrations/sah-009-the-servant-on-the-wall.webp",
+  "caption": "Granny Rong catches a servant testing the green logs."
+ },
+ {
+  "book": "sah",
+  "chapter": "010",
+  "after": "Granny Rong stood at the foot of the wall with her arms folded",
+  "image": "illustrations/sah-010-duan-hong-arrives.webp",
+  "caption": "Lord Duan Hong comes to visit."
+ },
+ {
+  "book": "sah",
+  "chapter": "011",
+  "after": "Bai Lang came running out of the hall in his shirt",
+  "image": "illustrations/sah-011-the-ranking.webp",
+  "caption": "The first Lord Ranking lights the sky."
+ },
+ {
+  "book": "sah",
+  "chapter": "012",
+  "after": "It should have swept them away. It did not.",
+  "image": "illustrations/sah-012-the-swim.webp",
+  "caption": "Qiushui swims the dark river."
+ },
+ {
+  "book": "sah",
+  "chapter": "013",
+  "after": "By dusk the ditch was chest-deep",
+  "image": "illustrations/sah-013-the-barricade.webp",
+  "caption": "The village builds a trap at dusk."
+ },
+ {
+  "book": "sah",
+  "chapter": "014",
+  "after": "And through it all, at the heart of it, Old Mother Tang walked with her axe, unhurried, toward Yue Ling.",
+  "image": "illustrations/sah-014-old-mother-tang.webp",
+  "caption": "Old Mother Tang comes for Yue Ling."
+ },
+ {
+  "book": "sah",
+  "chapter": "015",
+  "after": "\"Don't let him,\" Bai Lang said.",
+  "image": "illustrations/sah-015-dont-let-him.webp",
+  "caption": "\"Don't let him have you.\""
+ },
+ {
+  "book": "sah",
+  "chapter": "016",
+  "after": "Then he let go, and stepped back, and turned, and walked down toward the ford without looking back.",
+  "image": "illustrations/sah-016-four-figures.webp",
+  "caption": "Bai Lang walks away south."
+ },
+ {
+  "book": "sah",
+  "chapter": "017",
+  "after": "On the fifth day, Duan Hong practised in the open ground in front of the lord's house, where everyone could see.",
+  "image": "illustrations/sah-017-duan-practises.webp",
+  "caption": "Duan Hong practises where everyone can see."
+ },
+ {
+  "book": "sah",
+  "chapter": "018",
+  "after": "He settled himself cross-legged across from her with great care",
+  "image": "illustrations/sah-018-tea-in-the-loft.webp",
+  "caption": "Qiu Wen brings tea to the hay loft."
+ },
+ {
+  "book": "sah",
+  "chapter": "019",
+  "after": "Not the blade. The butt.",
+  "image": "illustrations/sah-019-the-butt.webp",
+  "caption": "The butt of the spear, and the sun."
+ },
+ {
+  "book": "sah",
+  "chapter": "020",
+  "after": "On the wall above the gate, Wei Shan stood with her bow and watched them go.",
+  "image": "illustrations/sah-020-leaving-the-ford.webp",
+  "caption": "Thirty-four lives, and the road out."
+ },
+ {
+  "book": "sah",
+  "chapter": "021",
+  "after": "Thirty-four people knelt on the stones",
+  "image": "illustrations/sah-021-the-pardon.webp",
+  "caption": "The pardon oath at Yangzhai."
+ },
+ {
+  "book": "sah",
+  "chapter": "022",
+  "after": "She set up the straw bundles at forty paces in the reeds below the old mill",
+  "image": "illustrations/sah-022-the-children.webp",
+  "caption": "Wei Shan teaches the children to shoot."
  }
 ]
