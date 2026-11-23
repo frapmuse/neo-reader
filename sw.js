@@ -1,5 +1,5 @@
 // Offline cache: the app shell and the encrypted books. New version = new cache.
-const CACHE = 'library-940a09342f';
+const CACHE = 'library-92ada77a17';
 self.addEventListener('install', e => { self.skipWaiting(); });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
