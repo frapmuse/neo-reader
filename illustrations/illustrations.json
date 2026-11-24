@@ -1,1584 +1,1864 @@
 [
-  {
-    "book": "neo",
-    "chapter": "prologue",
-    "after": "Every light in the hall turned white.",
-    "image": "illustrations/neo-prologue.webp",
-    "caption": "The upload hall on the night of the storm."
-  },
-  {
-    "book": "neo",
-    "chapter": "1",
-    "after": "Then I'll build it.",
-    "image": "illustrations/neo-001-wangyue-bay.webp",
-    "caption": "Ye Feng looks out over the empty bay."
-  },
-  {
-    "book": "neo",
-    "chapter": "2",
-    "after": "The moon had cleared the sea now.",
-    "image": "illustrations/neo-002-moonlit-pavilion.webp",
-    "caption": "Ye Feng and Luna look out over Wangyue Bay."
-  },
-  {
-    "book": "neo",
-    "chapter": "3",
-    "after": "One man, one fire and one tree.",
-    "image": "illustrations/neo-003-first-fire.webp",
-    "caption": "Ye Feng and Luna sit by their first fire beneath Xingmu."
-  },
-  {
-    "book": "neo",
-    "chapter": "4",
-    "after": "At Han Shuang standing at the top of the stream path with a stick for a spear, and Maui standing at the edge of the surf with nothing at all.",
-    "image": "illustrations/neo-004-sixteen.webp",
-    "caption": "Wangyue’s first settlers gather around the fire."
-  },
-  {
-    "book": "neo",
-    "chapter": "5",
-    "after": "It went in like a key into a lock.",
-    "image": "illustrations/neo-005-forty-tides.webp",
-    "caption": "Maui offers Ye Feng a sheath that has waited forty tides and more."
-  },
-  {
-    "book": "neo",
-    "chapter": "6",
-    "after": "Then he bowed to Han Xin, deeper than he had bowed to his lord.",
-    "image": "illustrations/neo-006-two-cards.webp",
-    "caption": "Qi Jiguang meets the general whose battles he studied."
-  },
-  {
-    "book": "neo",
-    "chapter": "7",
-    "after": "The girl stared at her.",
-    "image": "illustrations/neo-007-reunion.webp",
-    "caption": "Han Shuang and Yanzi find each other in the burned hamlet."
-  },
-  {
-    "book": "neo",
-    "chapter": "8",
-    "after": "He handed Ye Feng the arrow.",
-    "image": "illustrations/neo-008-the-arrow.webp",
-    "caption": "Han Xin hands Ye Feng the arrow after the fighting."
-  },
-  {
-    "book": "neo",
-    "chapter": "9",
-    "after": "At first light the next morning, Ye Feng came down to stand his own lesson and found sixty-three people waiting on the flat ground in the grey cold.",
-    "image": "illustrations/neo-009-first-light.webp",
-    "caption": "Wangyue’s first volunteers gather below Xingmu."
-  },
-  {
-    "book": "neo",
-    "chapter": "10",
-    "after": "He opened the door of the headman's house for the first time in nine days and stood in it.",
-    "image": "illustrations/neo-010-old-gu.webp",
-    "caption": "Old Gu opens his door to Ye Feng."
-  },
-  {
-    "book": "neo",
-    "chapter": "11",
-    "after": "Bayu did not shout.",
-    "image": "illustrations/neo-011-bayu.webp",
-    "caption": "Bayu keeps time on his battered wooden shield."
-  },
-  {
-    "book": "neo",
-    "chapter": "12",
-    "after": "The dawn chime came while they were still in the valley.",
-    "image": "illustrations/neo-012-return-at-dawn.webp",
-    "caption": "The people of Mulberry Ford head for the coast."
-  },
-  {
-    "book": "neo",
-    "chapter": "13",
-    "after": "You are making a bath, not a pond!",
-    "image": "illustrations/neo-013-salt-pans.webp",
-    "caption": "Mak Senah oversees Wangyue’s first salt pans."
-  },
-  {
-    "book": "neo",
-    "chapter": "14",
-    "after": "He saw her, and stopped, and after a moment came and sat on the sand a little way off, not too close.",
-    "image": "illustrations/neo-014-yanzi-at-the-bay.webp",
-    "caption": "Yanzi and Ye Feng sit by the glowing bay."
-  },
-  {
-    "book": "neo",
-    "chapter": "15",
-    "after": "Tie Shou did weep.",
-    "image": "illustrations/neo-015-the-iron-cart.webp",
-    "caption": "Tie Shou sees the cart of iron bars."
-  },
-  {
-    "book": "neo",
-    "chapter": "16",
-    "after": "Then they waited.",
-    "image": "illustrations/neo-016-starlight.webp",
-    "caption": "Ye Feng waits in the stubble below the estate wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "17",
-    "after": "The Xingmu was glowing.",
-    "image": "illustrations/neo-017-golden-xingmu.webp",
-    "caption": "Xingmu turns gold as the column comes home."
-  },
-  {
-    "book": "neo",
-    "chapter": "18",
-    "after": "I need them to shoot once more.",
-    "image": "illustrations/neo-018-listening-slope.webp",
-    "caption": "Saeli listens into the dark."
-  },
-  {
-    "book": "neo",
-    "chapter": "19",
-    "after": "We are halfway, my lord.",
-    "image": "illustrations/neo-019-halfway.webp",
-    "caption": "Han Xin and Ye Feng watch the valley from the wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "20",
-    "after": "\"My lord,\" she said, \"you jumped off the wall.\"",
-    "image": "illustrations/neo-020-red-moon.webp",
-    "caption": "Han Shuang finds Ye Feng below the wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "21",
-    "after": "It's for your mother.",
-    "image": "illustrations/neo-021-salt-jar.webp",
-    "caption": "Ye Feng offers a traveler his last jar of salt."
-  },
-  {
-    "book": "neo",
-    "chapter": "22",
-    "after": "She opened the Ledger to the front, and the lines came up, filling themselves one after another.",
-    "image": "illustrations/neo-022-territory-page.webp",
-    "caption": "Luna opens the Moon Ledger to Wangyue’s territory page."
-  },
-  {
-    "book": "neo",
-    "chapter": "23",
-    "after": "Ye Feng stood on the slope by the Xingmu and looked down at all of it, and then up, past the headland, at the sea.",
-    "image": "illustrations/neo-023-xingmu-overlook.webp",
-    "caption": "Ye Feng looks down over a growing Wangyue."
-  },
-  {
-    "book": "neo",
-    "chapter": "24",
-    "after": "They rode back through Stone Gate with the girls on the carts and the captured horses behind them, and the miller came out of his burned barn and saw his daughter in the second cart and sat down in the road.",
-    "image": "illustrations/neo-024-daughter-returns.webp",
-    "caption": "A miller sees his daughter return to Stone Gate."
-  },
-  {
-    "book": "neo",
-    "chapter": "25",
-    "after": "I am not too old for that.",
-    "image": "illustrations/neo-025-tan-wu.webp",
-    "caption": "Tan Wu walks beside Qinglei on the road to Wangyue."
-  },
-  {
-    "book": "neo",
-    "chapter": "26",
-    "after": "Everyone looked at him.",
-    "image": "illustrations/neo-026-commons-table.webp",
-    "caption": "Ye Feng chooses where to stand."
-  },
-  {
-    "book": "neo",
-    "chapter": "27",
-    "after": "Twenty-two lights on the water, coming round the headland in a long swaying line toward the reef gap.",
-    "image": "illustrations/neo-027-lights-on-water.webp",
-    "caption": "Lights round the headland at high tide."
-  },
-  {
-    "book": "neo",
-    "chapter": "28",
-    "after": "Ye Feng stayed kneeling beside him on the wet sand until he was sure, and then a while longer, and the youngest boy sat beside them both with his face in his hands and did not make a sound.",
-    "image": "illustrations/neo-028-wet-sand.webp",
-    "caption": "Ye Feng stays beside Guo Heng at the water’s edge."
-  },
-  {
-    "book": "neo",
-    "chapter": "29",
-    "after": "He was small and weathered and brown, of no age at all, in a sailor's short jacket.",
-    "image": "illustrations/neo-029-old-crab.webp",
-    "caption": "A weathered pilot brings his coaster through the reef."
-  },
-  {
-    "book": "neo",
-    "chapter": "30",
-    "after": "Old Crab looked at him for a long moment.",
-    "image": "illustrations/neo-030-coaster-in-reeds.webp",
-    "caption": "Old Crab takes the rescued passengers into the reeds."
-  },
-  {
-    "book": "neo",
-    "chapter": "31",
-    "after": "The Heron went backwards off the end of the jetty into the slow brown river, and the grey cloak spread out on the water, and then the river took it.",
-    "image": "illustrations/neo-031-grey-cloak.webp",
-    "caption": "The river carries the Heron’s cloak away."
-  },
-  {
-    "book": "neo",
-    "chapter": "32",
-    "after": "He closed the book.",
-    "image": "illustrations/neo-032-black-book.webp",
-    "caption": "Old Crab waits for the man in blue to answer."
-  },
-  {
-    "book": "neo",
-    "chapter": "33",
-    "after": "He read it alone, in the empty hall, with the shutters open on the bay.",
-    "image": "illustrations/neo-033-sealed-letter.webp",
-    "caption": "Ye Feng reads Aisyah’s letter in the empty hall."
-  },
-  {
-    "book": "neo",
-    "chapter": "34",
-    "after": "Lady Wang smiled very slightly.",
-    "image": "illustrations/neo-034-lady-wang.webp",
-    "caption": "Lady Wang tells Ye Feng what happens when the pirates find a full wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "35",
-    "after": "And the red sail.",
-    "image": "illustrations/neo-035-red-sail.webp",
-    "caption": "Maui brings word from the harbour."
-  },
-  {
-    "book": "neo",
-    "chapter": "36",
-    "after": "For the first time, something moved in the giant's face.",
-    "image": "illustrations/neo-036-the-crabs-boy.webp",
-    "caption": "One Ear recognizes the boy Ye Feng is asking about."
-  },
-  {
-    "book": "neo",
-    "chapter": "37",
-    "after": "He drew the sword a hand's width and knocked on the gate with the hilt, three times.",
-    "image": "illustrations/neo-037-riders-before-the-iron-gate.webp",
-    "caption": "Tian knocks at the throat wall, the Wind Riders behind him."
-  },
-  {
-    "book": "neo",
-    "chapter": "38",
-    "after": "Three thousand people with their backs to a gate that would not open.",
-    "image": "illustrations/neo-038-closed-gate.webp",
-    "caption": "Refugees shelter below Huang’s closed gate."
-  },
-  {
-    "book": "neo",
-    "chapter": "39",
-    "after": "He looked at the ring of fires slowly closing round them in the dark.",
-    "image": "illustrations/neo-039-ring-of-fires.webp",
-    "caption": "Ye Feng and Han Xin watch the fires rise around Huang."
-  },
-  {
-    "book": "neo",
-    "chapter": "40",
-    "after": "Taishi Ci lay in the ash beside Ye Feng with his long bow on the ground in front of him and three black-fletched arrows laid out beside it, side by side, very neat.",
-    "image": "illustrations/neo-040-black-feathers.webp",
-    "caption": "Taishi Ci and Ye Feng wait beneath paling stars."
-  },
-  {
-    "book": "neo",
-    "chapter": "41",
-    "after": "The pole leaned, and leaned, and the great yellow banner came down off the top of the knoll in a long slow fold, like a sail dropping, and lay in the dust.",
-    "image": "illustrations/neo-041-falling-banner.webp",
-    "caption": "Taishi Ci's arrows bring down the yellow banner."
-  },
-  {
-    "book": "neo",
-    "chapter": "42",
-    "after": "The Lord's Hall was gone.",
-    "image": "illustrations/neo-042-the-keep.webp",
-    "caption": "Wangyue wakes as a Stronghold."
-  },
-  {
-    "book": "neo",
-    "chapter": "43",
-    "after": "It rose in a long smooth hump, the way the sea rises over a sandbar, and broke, and in the white of it were heads and shoulders and arms.",
-    "image": "illustrations/neo-043-rising-from-the-reef.webp",
-    "caption": "Maui and the Nacari rise in the reef gap."
-  },
-  {
-    "book": "neo",
-    "chapter": "44",
-    "after": "Up on the headland, Kirana's lantern had already swung twice.",
-    "image": "illustrations/neo-044-kiranas-lantern.webp",
-    "caption": "Kirana signals from the headland."
-  },
-  {
-    "book": "neo",
-    "chapter": "45",
-    "after": "Old Thunder stood very still.",
-    "image": "illustrations/neo-045-old-thunder.webp",
-    "caption": "The Bear King of Mount Lao falls in the broken gate."
-  },
-  {
-    "book": "neo",
-    "chapter": "46",
-    "after": "She looked up at Ye Feng on the dark green horse in the gateway, and smiled.",
-    "image": "illustrations/neo-046-dusk-at-the-stronghold-gate.webp",
-    "caption": "Xing and the Daughters of the Sky at the Stronghold gate."
-  },
-  {
-    "book": "neo",
-    "chapter": "47",
-    "after": "Above it, carved into the rock in letters he could not read and somehow understood, were three words.",
-    "image": "illustrations/neo-047-the-black-door.webp",
-    "caption": "The black door at the foot of the cliff."
-  },
-  {
-    "book": "neo",
-    "chapter": "48",
-    "after": "They went over the wall and through the goats, and the goats, to everyone's great relief, only moved aside.",
-    "image": "illustrations/neo-048-goat-yard.webp",
-    "caption": "The goat path into the king's tower."
-  },
-  {
-    "book": "neo",
-    "chapter": "49",
-    "after": "It took him a long time, because his characters were still bad, and because he kept stopping.",
-    "image": "illustrations/neo-049-the-letter.webp",
-    "caption": "Ye Feng writes to Langya himself."
-  },
-  {
-    "book": "neo",
-    "chapter": "50",
-    "after": "In both hands he held a long-handled blade, a heavy curved edge on a pole as long as he was, and he held it across his body in front of the carts as calmly as a farmer holds a hoe.",
-    "image": "illustrations/neo-050-the-ford.webp",
-    "caption": "A stranger holds the ford alone."
-  },
-  {
-    "book": "neo",
-    "chapter": "51",
-    "after": "Then he went down on one knee on the beaten earth, slowly, the way a great tree leans, with his round black shield beside him.",
-    "image": "illustrations/neo-051-the-kneeling.webp",
-    "caption": "Tian and Xing kneel and take the Ye name."
-  },
-  {
-    "book": "neo",
-    "chapter": "52",
-    "after": "He jumped down from his rock onto the shingle with a heavy sword in his right hand and the hook raised in front of him, and he planted his feet and waited.",
-    "image": "illustrations/neo-052-the-hook.webp",
-    "caption": "Guan Yu rides at the pirate captain on the shingle."
-  },
-  {
-    "book": "neo",
-    "chapter": "53",
-    "after": "Han Xin was smiling very slightly at the map.",
-    "image": "illustrations/neo-053-the-boom-plan.webp",
-    "caption": "The council plans to close the reef gap."
-  },
-  {
-    "book": "neo",
-    "chapter": "54",
-    "after": "Ye Feng looked at the burning ship with the black boats against its side.",
-    "image": "illustrations/neo-054-burning-merchant.webp",
-    "caption": "A merchant ship burns among the pirate boats."
-  },
-  {
-    "book": "neo",
-    "chapter": "55",
-    "after": "\"If I give them back, I think I might have a friend with sixty.\"",
-    "image": "illustrations/neo-055-the-friend.webp",
-    "caption": "Ye Feng gives Mi Zhu his ships back."
-  },
-  {
-    "book": "neo",
-    "chapter": "56",
-    "after": "Behind him the Moon Shields came on in a double column with their shields lifted and overlapped above their heads, like the scales of a long purple animal, and Ye Feng and Han Shuang walked in the middle of it, and the bridge swung under all of them like a hammock in a wind.",
-    "image": "illustrations/neo-056-chain-bridge.webp",
-    "caption": "The Moon Shields cross the chain bridge."
-  },
-  {
-    "book": "neo",
-    "chapter": "57",
-    "after": "Now the pine trunks lay along the beach below the north headland, chained end to end, waiting.",
-    "image": "illustrations/neo-057-the-waiting-boom.webp",
-    "caption": "Old Crab watches the boom being made ready."
-  },
-  {
-    "book": "neo",
-    "chapter": "58",
-    "after": "The first great ship lay in front of them, tilted, with its bow up on the boom and its sails burning like torches above it, and the pirates still on its deck were not fighting any more.",
-    "image": "illustrations/neo-058-fire-in-the-gap.webp",
-    "caption": "The pirate ship burns on the boom."
-  },
-  {
-    "book": "neo",
-    "chapter": "59",
-    "after": "Hou Cheng's knife went through the rope.",
-    "image": "illustrations/neo-059-the-rope.webp",
-    "caption": "The cliff road comes down on the pirates."
-  },
-  {
-    "book": "neo",
-    "chapter": "60",
-    "after": "He was lean and narrow and not very tall, with a shaved head and a face like a blade, wearing a coat of small black iron scales that glittered wetly in the lantern light, and he moved faster than anyone Ye Feng had ever seen move.",
-    "image": "illustrations/neo-060-black-eel.webp",
-    "caption": "Black Eel comes over the stern rail."
-  },
-  {
-    "book": "neo",
-    "chapter": "61",
-    "after": "He saw it come up through the window of Maelis's clinic beside the Xingmu, sitting on the edge of a bed with his left arm laid out on a clean cloth while the Eldari healer cleaned the long cut with something that stung like fire and then bound a silver-green Xingmu leaf over it.",
-    "image": "illustrations/neo-061-xingmu-leaf.webp",
-    "caption": "Maelis binds a Xingmu leaf over the cut."
-  },
-  {
-    "book": "neo",
-    "chapter": "62",
-    "after": "For a moment she did not understand.",
-    "image": "illustrations/neo-062-ye-shuang.webp",
-    "caption": "Han Shuang is called to kneel with the family."
-  },
-  {
-    "book": "neo",
-    "chapter": "63",
-    "after": "They did not cut down the farmers.",
-    "image": "illustrations/neo-063-the-push.webp",
-    "caption": "Ye Tian pushes the rebel crowd back from the gate."
-  },
-  {
-    "book": "neo",
-    "chapter": "64",
-    "after": "Saeli's archers shot fire into their hides, and they began to smoke.",
-    "image": "illustrations/neo-064-sinking-towers.webp",
-    "caption": "The siege towers sink in the soft ground."
-  },
-  {
-    "book": "neo",
-    "chapter": "65",
-    "after": "An arrow went past Ye Feng's head so close that he felt the wind of it, and took the bull in the left eye.",
-    "image": "illustrations/neo-065-iron-horn-king.webp",
-    "caption": "Ye Xing's arrow takes the Iron-Horn King in the eye."
-  },
-  {
-    "book": "neo",
-    "chapter": "66",
-    "after": "Then she said, \"Brother,\" very quietly, as if testing whether the word would hold her weight, and Ye Shuang put an arm round her shoulders before anyone else could.",
-    "image": "illustrations/neo-066-a-new-name.webp",
-    "caption": "A new name beneath the Xingmu."
-  },
-  {
-    "book": "neo",
-    "chapter": "66",
-    "after": "Where a man had no one left to answer for him, a voice from the long rows of the Daughters of the Sky answered instead, Here, a different woman each time, so that no name was left in silence.",
-    "image": "illustrations/neo-066-here.webp",
-    "caption": "The fourteen are read home on the ridge."
-  },
-  {
-    "book": "neo",
-    "chapter": "67",
-    "after": "She did not look at him when she said it, and he did not look at her.",
-    "image": "illustrations/neo-067-above-the-graves.webp",
-    "caption": "Ye Feng and Aisyah on the wall above the graves."
-  },
-  {
-    "book": "neo",
-    "chapter": "68",
-    "after": "While the boats were being found, Ye Feng saw Ye Shuang go down to the end of the jetty and sit beside the girl, with her spear across her knees beside the girl's pole, and her bare feet in the warm water too.",
-    "image": "illustrations/neo-068-the-jetty.webp",
-    "caption": "Ye Shuang sits with the ferry girl."
-  },
-  {
-    "book": "neo",
-    "chapter": "69",
-    "after": "In the middle of them all, on a raised stone with the whole drowned kingdom spread out below him in the moonlight, stood a tall thin man in a long grey robe with a silver crown shaped like a wave, shouting at the ringers to ring harder.",
-    "image": "illustrations/neo-069-the-belfry.webp",
-    "caption": "The Tide King in his belfry."
-  },
-  {
-    "book": "neo",
-    "chapter": "70",
-    "after": "It wrapped round the spear shaft just below the helmet, three times, with a sound like a bell, and the weight swung round and knocked the helmet off.",
-    "image": "illustrations/neo-070-the-chain.webp",
-    "caption": "Ah Hai's chain earns his seat in the Moon Guard."
-  },
-  {
-    "book": "neo",
-    "chapter": "71",
-    "after": "Ye Feng saw the chains fly, low and spinning, and wrap round the spokes of the great wheels.",
-    "image": "illustrations/neo-071-the-wheels.webp",
-    "caption": "The chariots of Shang go over."
-  },
-  {
-    "book": "neo",
-    "chapter": "72",
-    "after": "Up close, E Lai was even bigger.",
-    "image": "illustrations/neo-072-e-lai.webp",
-    "caption": "E Lai waits on the bridge to the Deer Terrace."
-  },
-  {
-    "book": "neo",
-    "chapter": "73",
-    "after": "In front of it was a table of black stone, and on the table, nothing at all.",
-    "image": "illustrations/neo-073-the-hall-of-lots.webp",
-    "caption": "The Lotkeeper opens the first sale."
-  },
-  {
-    "book": "neo",
-    "chapter": "74",
-    "after": "Then she reached out and rang the red bell at her seat, once, hard, so that the sound went all the way up into the painted sky.",
-    "image": "illustrations/neo-074-the-red-bell.webp",
-    "caption": "Su Qingluan rings the red bell."
-  },
-  {
-    "book": "neo",
-    "chapter": "75",
-    "after": "Ye Wan'er had already crouched beside the mark with her slate on her knee, writing down the fees she meant to charge, and Mi Zhu, after a moment, crouched down beside her and began, very gently, to argue.",
-    "image": "illustrations/neo-075-free-port.webp",
-    "caption": "The Free Port seal on the harbour steps."
-  },
-  {
-    "book": "neo",
-    "chapter": "76",
-    "after": "Mak Senah stood with both hands holding the brim of her hat and said nothing at all for a long time.",
-    "image": "illustrations/neo-076-salt-terraces.webp",
-    "caption": "The salt terraces appear on the Gull Isles cliff."
-  },
-  {
-    "book": "neo",
-    "chapter": "77",
-    "after": "Eight hundred spear points came over the top of the cart wall at once, in two rows, the front row low and the back row high, as Qi Jiguang had drilled every man in Wangyue to stand.",
-    "image": "illustrations/neo-077-the-cart-wall.webp",
-    "caption": "The cart wall at Kunyu."
-  },
-  {
-    "book": "neo",
-    "chapter": "78",
-    "after": "He dropped it in the pit.",
-    "image": "illustrations/neo-078-the-headcloths.webp",
-    "caption": "Hou Cheng burns his yellow headcloth."
-  },
-  {
-    "book": "neo",
-    "chapter": "79",
-    "after": "\"We have no money,\" said the man called Gao Shun. \"We have hands. We will work for it.\"",
-    "image": "illustrations/neo-079-gao-shun-at-the-gate.webp",
-    "caption": "Gao Shun comes to the wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "80",
-    "after": "\"Then I will have to drink yours, Captain,\" he said, wiping his mouth. \"Every time. For the rest of our lives. It is the least a friend can do.\"",
-    "image": "illustrations/neo-080-i-do-not-drink.webp",
-    "caption": "Gao Shun does not drink."
-  },
-  {
-    "book": "neo",
-    "chapter": "81",
-    "after": "Now the sun came up behind the column, throwing their shadows long in front of them down the road toward Beihai",
-    "image": "illustrations/neo-081-the-road-west.webp",
-    "caption": "The column marches for Beihai."
-  },
-  {
-    "book": "neo",
-    "chapter": "82",
-    "after": "A second followed it. Then a third.",
-    "image": "illustrations/neo-082-three-fire-arrows.webp",
-    "caption": "Three fire arrows over Beihai."
-  },
-  {
-    "book": "neo",
-    "chapter": "83",
-    "after": "Guan Yu rode forward, and swung the long blade once, and the banner pole came down.",
-    "image": "illustrations/neo-083-the-yellow-banner-falls.webp",
-    "caption": "Guan Yu brings down Guan Hai's banner."
-  },
-  {
-    "book": "neo",
-    "chapter": "84",
-    "after": "He laid his long bow on the floor in front of him.",
-    "image": "illustrations/neo-084-taishi-ci-kneels.webp",
-    "caption": "Taishi Ci swears to Wangyue."
-  },
-  {
-    "book": "neo",
-    "chapter": "85",
-    "after": "It was a man from Beihai, Ye Feng saw.",
-    "image": "illustrations/neo-083-a-voice-from-beihai.webp",
-    "caption": "A man from Beihai answers for the dead."
-  },
-  {
-    "book": "neo",
-    "chapter": "86",
-    "after": "Then the children ran along the ropes with tapers of their own, and the lights went down the quay one after another, red and white and gold, until the whole harbour was a ribbon of light reflected in the black water.",
-    "image": "illustrations/neo-084-the-night-market.webp",
-    "caption": "The first night market on the Wangyue quay."
-  },
-  {
-    "book": "neo",
-    "chapter": "87",
-    "after": "The fleet was going out.",
-    "image": "illustrations/neo-085-the-fleet-goes-north.webp",
-    "caption": "Fen watches the fleet sail north."
-  },
-  {
-    "book": "neo",
-    "chapter": "88",
-    "after": "Rauri's divers went over the side of the junk without a splash.",
-    "image": "illustrations/neo-086-into-the-fog.webp",
-    "caption": "Rauri's divers slip into the fog."
-  },
-  {
-    "book": "neo",
-    "chapter": "89",
-    "after": "Pan Gui stood very still for a moment, with the sabre still raised.",
-    "image": "illustrations/neo-087-four-black-hands.webp",
-    "caption": "Pan Gui, elder of the Brothers Pan, falls."
-  },
-  {
-    "book": "neo",
-    "chapter": "90",
-    "after": "They managed nearly a quarter of an hour, which Xiao Qiu said was a good start.",
-    "image": "illustrations/neo-088-the-green-lamp-step.webp",
-    "caption": "Waiting on the step of the Green Lamp."
-  },
-  {
-    "book": "neo",
-    "chapter": "91",
-    "after": "Han Xin bowed his head, and stepped back",
-    "image": "illustrations/neo-089-moonrise-on-the-beach.webp",
-    "caption": "Moonrise on the beach before Jingxing."
-  },
-  {
-    "book": "neo",
-    "chapter": "92",
-    "after": "But the same face, and the same way of standing",
-    "image": "illustrations/neo-090-the-young-general.webp",
-    "caption": "Han Xin watches his younger self."
-  },
-  {
-    "book": "neo",
-    "chapter": "93",
-    "after": "There were red flags on every tower except the four round the east gate.",
-    "image": "illustrations/neo-091-red-flags.webp",
-    "caption": "Forty red flags over the camp of Zhao."
-  },
-  {
-    "book": "neo",
-    "chapter": "94",
-    "after": "and Han Xin ate.",
-    "image": "illustrations/neo-092-breakfast.webp",
-    "caption": "Breakfast on the beach after Jingxing."
-  },
-  {
-    "book": "neo",
-    "chapter": "95",
-    "after": "\"Brother Tian,\" said Ye Chuan, still on his back. \"Come and be a tiger. You are already a tiger. You only have to get down.\"",
-    "image": "illustrations/neo-095-the-bear.webp",
-    "caption": "Hua Tuo teaches the Five Animals play."
-  },
-  {
-    "book": "neo",
-    "chapter": "96",
-    "after": "It went round the hall like a stone through ice.",
-    "image": "illustrations/neo-096-the-waystones.webp",
-    "caption": "Ye Feng outbids the Nine Gates for the waystones."
-  },
-  {
-    "book": "neo",
-    "chapter": "97",
-    "after": "High on the far side of the hall, Shen Yan rose from his seat, which no lord had done all day.",
-    "image": "illustrations/neo-097-the-sealed-lot.webp",
-    "caption": "Shen Yan wins the Gold Territory Token."
-  },
-  {
-    "book": "neo",
-    "chapter": "98",
-    "after": "\"I can't tell,\" he said at last.",
-    "image": "illustrations/neo-098-mother-lin.webp",
-    "caption": "Mother Lin's pearl test."
-  },
-  {
-    "book": "neo",
-    "chapter": "99",
-    "after": "\"Tell Zang Ba thank you for the wine,\" he said. \"Tell him I'll open it in his house.\"",
-    "image": "illustrations/neo-099-the-herald.webp",
-    "caption": "Zang Ba's herald comes down the gorge."
-  },
-  {
-    "book": "neo",
-    "chapter": "100",
-    "after": "The lord came over the edge beside him a moment later, and then Ye Shuang, and then Mo Lin, and then, one after another, the soldiers of the Xingmu Guard, crawling over the lip of the cliff in the dark and lying down flat in the grass without a sound.",
-    "image": "illustrations/neo-100-hawks-ladder.webp",
-    "caption": "Over the top of the Hawk's Ladder."
-  },
-  {
-    "book": "neo",
-    "chapter": "101",
-    "after": "Ye Feng stood on the ridge of the roof between them and looked down the gorge.",
-    "image": "illustrations/neo-101-banners-on-the-roof.webp",
-    "caption": "The two banners rise over Stone Gate."
-  },
-  {
-    "book": "neo",
-    "chapter": "102",
-    "after": "\"Lord of the sea! Next time, I choose the season! And the door!\"",
-    "image": "illustrations/neo-102-zang-ba-rope.webp",
-    "caption": "Zang Ba escapes down the rope."
-  },
-  {
-    "book": "neo",
-    "chapter": "103",
-    "after": "Ye Feng planted the token at dawn, beside the well.",
-    "image": "illustrations/neo-103-taishan-well.webp",
-    "caption": "Taishan is founded at the well-house."
-  },
-  {
-    "book": "neo",
-    "chapter": "104",
-    "after": "Seri sewed the eighth patch onto the banner that night, in the Heaven's Shields' hall, by lamplight.",
-    "image": "illustrations/neo-104-patch-eight.webp",
-    "caption": "Seri sews the eighth patch."
-  },
-  {
-    "book": "neo",
-    "chapter": "105",
-    "after": "At the end of the hall, Ye Chuan had come away from the doorway.",
-    "image": "illustrations/neo-105-the-plum-seal.webp",
-    "caption": "The plum-flower seal at the banquet."
-  },
-  {
-    "book": "neo",
-    "chapter": "106",
-    "after": "\"Then she'd be a grown woman now. Somewhere. If she's alive, she's at the far end of that thread, not this one. I'd like to follow it all the way, before anybody cuts it.\" He paused. \"I'm not asking you to forget. I'm asking you to wait.\"",
-    "image": "illustrations/neo-106-the-wall.webp",
-    "caption": "Ye Chuan on the Throat Wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "107",
-    "after": "\"More than fifty ox carts, Master Xiao,\" she said. \"Loaded to the axle. Perhaps sixty, on these roads.\"",
-    "image": "illustrations/neo-107-the-ox-carts.webp",
-    "caption": "What twenty million cash weighs."
-  },
-  {
-    "book": "neo",
-    "chapter": "108",
-    "after": "\"Green Thunder,\" he said, with his hand still on the filly's forehead, and nodded back at the dark horse at the gate. \"And Red Thunder. Chilei.\"",
-    "image": "illustrations/neo-108-chilei.webp",
-    "caption": "Chilei is named."
-  },
-  {
-    "book": "neo",
-    "chapter": "109",
-    "after": "\"Three months, Brother,\" she said, very quietly. \"And the bread is still warm.\"",
-    "image": "illustrations/neo-109-the-warm-bread.webp",
-    "caption": "Home, three months later in the Tower, a single night outside."
-  },
-  {
-    "book": "neo",
-    "chapter": "110",
-    "after": "\"The stoves,\" said Ye Chuan, with his mouth full of tea leaves. \"Pang Juan counts the stoves.\"",
-    "image": "illustrations/neo-110-the-stoves.webp",
-    "caption": "Han Xin tells the story of Maling."
-  },
-  {
-    "book": "neo",
-    "chapter": "111",
-    "after": "The thin, ink-stained hand took the crutch out of Wei Chengzhi's hands.",
-    "image": "illustrations/neo-111-sun-bin.webp",
-    "caption": "Sun Bin in the covered cart."
-  },
-  {
-    "book": "neo",
-    "chapter": "112",
-    "after": "Fei Lian came up the last open stretch of the slope alone, faster than a running horse.",
-    "image": "illustrations/neo-112-fei-lian.webp",
-    "caption": "Fei Lian charges the ridge."
-  },
-  {
-    "book": "neo",
-    "chapter": "113",
-    "after": "They had been waiting all night. He could see it in their faces.",
-    "image": "illustrations/neo-113-the-wall-shouts.webp",
-    "caption": "Wangyue welcomes the Maling party home."
-  },
-  {
-    "book": "neo",
-    "chapter": "114",
-    "after": "Then a light appeared at the very top of the storehouse tower.",
-    "image": "illustrations/neo-114-the-tower-light.webp",
-    "caption": "The Daughters of the Sky take the storehouse tower."
-  },
-  {
-    "book": "neo",
-    "chapter": "115",
-    "after": "\"Then we will both catch nothing,\" said Jiang Ziya at last, \"and have a great deal of time to talk.\"",
-    "image": "illustrations/neo-115-the-straight-hook.webp",
-    "caption": "Ye Feng fishes beside Jiang Ziya."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch002",
-    "after": "Lin Hu unfurled the banner.",
-    "image": "illustrations/n3-001-the-banner.webp",
-    "caption": "The banner of the Blackmoon Troop goes up over the Moon City."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch004",
-    "after": "He wrote it in his own hand, plainly, the way Han Xin had taught him: what, where, how many, what next.",
-    "image": "illustrations/n3-002-first-report.webp",
-    "caption": "The first report to the King, by the last fire."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch005",
-    "after": "He felt them stop being afraid.",
-    "image": "illustrations/n3-003-the-wedge.webp",
-    "caption": "The Spearhead of Heaven: three hundred riders become one."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch007",
-    "after": "Then he sighed, the deep, put-upon sigh of a younger brother who has been sighing at an elder brother all his life, and dropped the sword with a clatter on the stones, and put his arms around Ye Shuo's back, and held on too.",
-    "image": "illustrations/n3-004-the-brothers.webp",
-    "caption": "Ye Shuo and Ye Heng at the gate of Yuejin."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch008",
-    "after": "Ye Weixing, on the parapet, made a small noise that might have been a laugh, and turned her face away to the dark.",
-    "image": "illustrations/n3-005-the-tower.webp",
-    "caption": "\"You break it. I build it.\""
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch010",
-    "after": "Behind Ye Shuo the entire Fourth Hundred became completely, magnificently silent.",
-    "image": "illustrations/n3-006-the-date.webp",
-    "caption": "Heiyue meets Fan Yuqing."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch011",
-    "after": "They were all crouched down below the gunwales in a tight knot, watching her face, and their mouths were moving too.",
-    "image": "illustrations/n3-007-counting.webp",
-    "caption": "Arrows over the Ru, and the children counting."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch013",
-    "after": "Fan Yuqing was standing at the top of the tower stairs.",
-    "image": "illustrations/n3-008-sunset-prayer.webp",
-    "caption": "Sunset prayer on the tower, and the tea going cold."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch016",
-    "after": "as if the mountain itself had built it in the night and was waiting to see who would come.",
-    "image": "illustrations/n3-009-blackmoon-hold.webp",
-    "caption": "Dawn on the mountain: Blackmoon Hold, raised in a night."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch017",
-    "after": "Cheng Jian sat on it and looked at nothing in particular.",
-    "image": "illustrations/n3-010-the-twelfth-fall.webp",
-    "caption": "The twelfth time, the horse did not throw him."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch001",
-    "after": "She smiled the faint, ancient smile of a woman who had been right about everything for a very long time.",
-    "image": "illustrations/n3-011-the-star-tree.webp",
-    "caption": "Morning under the Star Tree, on the day Ye Shuo leaves home."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch003",
-    "after": "The mare shrieked. Mo Yan shrieked. The column, for the first time in three days, broke step entirely, because nobody could ride straight for laughing.",
-    "image": "illustrations/n3-012-the-ear.webp",
-    "caption": "Heiyue bites the grey mare's ear, and the whole column breaks step."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch006",
-    "after": "Then the mist opened in front of him, and the camp was there.",
-    "image": "illustrations/n3-013-the-moon-ford.webp",
-    "caption": "Out of the chestnut wood at dawn, between the empty fires."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch009",
-    "after": "Nobody in the boats moved.",
-    "image": "illustrations/n3-014-the-toll-boats.webp",
-    "caption": "Three toll boats, boxed in on the ford."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch012",
-    "after": "He had never in his life known what to do when people did this.",
-    "image": "illustrations/n3-015-the-slipway.webp",
-    "caption": "The Fan household kneels on the slipway."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch014",
-    "after": "\"You're the one from the ford,\" she whispered. \"The black horsemen.\"",
-    "image": "illustrations/n3-016-the-cliff.webp",
-    "caption": "An old woman on the wall at the top of the cliff path."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch016",
-    "after": "Nobody said anything for a while.",
-    "image": "illustrations/n3-017-the-troop-arrives.webp",
-    "caption": "The troop comes up the mountain and sees the Hold."
-  },
-  {
-    "book": "neo",
-    "chapter": "116",
-    "after": "\"The realm is not one man's realm,\" he said.",
-    "image": "illustrations/neo-116-the-fishing-stone.webp",
-    "caption": "Two straight hooks on a winter pool."
-  },
-  {
-    "book": "neo",
-    "chapter": "117",
-    "after": "He was right. Han Xin had gone down on one knee in the dust of the gateway",
-    "image": "illustrations/neo-117-the-throat-wall.webp",
-    "caption": "Jiang Ziya at the Throat Wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "118",
-    "after": "\"These,\" he said to Han Xin, and pointed with his staff",
-    "image": "illustrations/neo-118-the-forty.webp",
-    "caption": "Jiang Ziya chooses the forty who need it most."
-  },
-  {
-    "book": "neo",
-    "chapter": "119",
-    "after": "\"Feed the first ones,\" said Jiang Ziya.",
-    "image": "illustrations/neo-119-the-council.webp",
-    "caption": "The month-end council hears that Guangzong has fallen."
-  },
-  {
-    "book": "neo",
-    "chapter": "120",
-    "after": "She looked up at him in the lantern light with her wide grave Eldari eyes",
-    "image": "illustrations/neo-120-the-lantern.webp",
-    "caption": "After Stage Eleven, the reckoning on the sand."
-  },
-  {
-    "book": "neo",
-    "chapter": "121",
-    "after": "Then one man walked down into the water from the far bank, alone, on foot, and began to wade across towards them.",
-    "image": "illustrations/neo-121-the-upper-ford.webp",
-    "caption": "Andika wades out to the first refugees."
-  },
-  {
-    "book": "neo",
-    "chapter": "122",
-    "after": "He did not pray for long. He never did.",
-    "image": "illustrations/neo-122-sunset-prayer.webp",
-    "caption": "Sunset prayer on the beach, and three fishermen beside him."
-  },
-  {
-    "book": "neo",
-    "chapter": "123",
-    "after": "She was tall for a woman of that age and that country",
-    "image": "illustrations/neo-123-the-queen.webp",
-    "caption": "Fu Hao comes out through the chariot ring."
-  },
-  {
-    "book": "neo",
-    "chapter": "124",
-    "after": "Fu Hao met him from the car.",
-    "image": "illustrations/neo-124-the-chariot.webp",
-    "caption": "The queen of Shang closes the door."
-  },
-  {
-    "book": "neo",
-    "chapter": "125",
-    "after": "Under the plum blossom banner, Aisyah stood very still for a moment when the queen stopped in front of her.",
-    "image": "illustrations/neo-125-her-reason.webp",
-    "caption": "Fu Hao chooses Lady Aisyah."
-  },
-  {
-    "book": "sah",
-    "chapter": "001",
-    "after": "Qiushui, Yue Ling thought. Autumn Water. Another thing she knew without knowing how.",
-    "image": "illustrations/sah-001-born-of-the-ford.webp",
-    "caption": "Born of the ford, on the first morning of the world."
-  },
-  {
-    "book": "sah",
-    "chapter": "002",
-    "after": "\"Now,\" she said, and stood up on the roof, and lifted White Lotus so that the moon caught the blade.",
-    "image": "illustrations/sah-002-the-granary-roof.webp",
-    "caption": "The signal on the granary roof."
-  },
-  {
-    "book": "sah",
-    "chapter": "003",
-    "after": "Wei Shan pointed upstream, to where the river bent around a wooded hill and disappeared.",
-    "image": "illustrations/sah-003-the-other-crossing.webp",
-    "caption": "Wei Shan shows her the other crossing."
-  },
-  {
-    "book": "sah",
-    "chapter": "004",
-    "after": "By mid-morning they could do it.",
-    "image": "illustrations/sah-004-push.webp",
-    "caption": "Two hundred farmers learn to push."
-  },
-  {
-    "book": "sah",
-    "chapter": "005",
-    "after": "She stepped up onto the top log of the wall",
-    "image": "illustrations/sah-005-pei-yuan.webp",
-    "caption": "Across the water, Yue Ling answers Pei Yuan."
-  },
-  {
-    "book": "sah",
-    "chapter": "006",
-    "after": "She rode Qiushui out onto the gravel bar on the far side of the island",
-    "image": "illustrations/sah-006-the-gravel-bar.webp",
-    "caption": "One rider, one spear, on the gravel bar."
-  },
-  {
-    "book": "sah",
-    "chapter": "007",
-    "after": "Nobody wants to stand in front of a horse coming out of a fire.",
-    "image": "illustrations/sah-007-through-the-fire.webp",
-    "caption": "Qiushui jumps the fire."
-  },
-  {
-    "book": "sah",
-    "chapter": "008",
-    "after": "They buried them at sunset.",
-    "image": "illustrations/sah-008-burial-at-sunset.webp",
-    "caption": "Seventeen graves at sunset."
-  },
-  {
-    "book": "sah",
-    "chapter": "009",
-    "after": "It was one of the four servants. The friendly one, who had given the children sweets.",
-    "image": "illustrations/sah-009-the-servant-on-the-wall.webp",
-    "caption": "Granny Rong catches a servant testing the green logs."
-  },
-  {
-    "book": "sah",
-    "chapter": "010",
-    "after": "Granny Rong stood at the foot of the wall with her arms folded",
-    "image": "illustrations/sah-010-duan-hong-arrives.webp",
-    "caption": "Lord Duan Hong comes to visit."
-  },
-  {
-    "book": "sah",
-    "chapter": "011",
-    "after": "Bai Lang came running out of the hall in his shirt",
-    "image": "illustrations/sah-011-the-ranking.webp",
-    "caption": "The first Lord Ranking lights the sky."
-  },
-  {
-    "book": "sah",
-    "chapter": "012",
-    "after": "It should have swept them away. It did not.",
-    "image": "illustrations/sah-012-the-swim.webp",
-    "caption": "Qiushui swims the dark river."
-  },
-  {
-    "book": "sah",
-    "chapter": "013",
-    "after": "By dusk the ditch was chest-deep",
-    "image": "illustrations/sah-013-the-barricade.webp",
-    "caption": "The village builds a trap at dusk."
-  },
-  {
-    "book": "sah",
-    "chapter": "014",
-    "after": "And through it all, at the heart of it, Old Mother Tang walked with her axe, unhurried, toward Yue Ling.",
-    "image": "illustrations/sah-014-old-mother-tang.webp",
-    "caption": "Old Mother Tang comes for Yue Ling."
-  },
-  {
-    "book": "sah",
-    "chapter": "015",
-    "after": "\"Don't let him,\" Bai Lang said.",
-    "image": "illustrations/sah-015-dont-let-him.webp",
-    "caption": "\"Don't let him have you.\""
-  },
-  {
-    "book": "sah",
-    "chapter": "016",
-    "after": "Then he let go, and stepped back, and turned, and walked down toward the ford without looking back.",
-    "image": "illustrations/sah-016-four-figures.webp",
-    "caption": "Bai Lang walks away south."
-  },
-  {
-    "book": "sah",
-    "chapter": "017",
-    "after": "On the fifth day, Duan Hong practised in the open ground in front of the lord's house, where everyone could see.",
-    "image": "illustrations/sah-017-duan-practises.webp",
-    "caption": "Duan Hong practises where everyone can see."
-  },
-  {
-    "book": "sah",
-    "chapter": "018",
-    "after": "He settled himself cross-legged across from her with great care",
-    "image": "illustrations/sah-018-tea-in-the-loft.webp",
-    "caption": "Qiu Wen brings tea to the hay loft."
-  },
-  {
-    "book": "sah",
-    "chapter": "019",
-    "after": "Not the blade. The butt.",
-    "image": "illustrations/sah-019-the-butt.webp",
-    "caption": "The butt of the spear, and the sun."
-  },
-  {
-    "book": "sah",
-    "chapter": "020",
-    "after": "On the wall above the gate, Wei Shan stood with her bow and watched them go.",
-    "image": "illustrations/sah-020-leaving-the-ford.webp",
-    "caption": "Thirty-four lives, and the road out."
-  },
-  {
-    "book": "sah",
-    "chapter": "021",
-    "after": "Thirty-four people knelt on the stones",
-    "image": "illustrations/sah-021-the-pardon.webp",
-    "caption": "The pardon oath at Yangzhai."
-  },
-  {
-    "book": "sah",
-    "chapter": "022",
-    "after": "She set up the straw bundles at forty paces in the reeds below the old mill",
-    "image": "illustrations/sah-022-the-children.webp",
-    "caption": "Wei Shan teaches the children to shoot."
-  },
-  {
-    "book": "neo",
-    "chapter": "126",
-    "after": "Inside was a child's straw sandal, very small and very worn, and a strip of yellow cloth with words written on it in a large, careful, fervent hand.",
-    "image": "illustrations/neo-126-the-sandal.webp",
-    "caption": "A sandal and a strip of yellow cloth."
-  },
-  {
-    "book": "neo",
-    "chapter": "127",
-    "after": "A man who knows where they are can walk across on them in the dark, up to his waist, and never lose his feet.\"",
-    "image": "illustrations/neo-127-the-weir-stones.webp",
-    "caption": "Grandfather Tian shows the weir stones."
-  },
-  {
-    "book": "neo",
-    "chapter": "128",
-    "after": "He simply walked up behind the four boys standing there, staring out at the sandbar, and when he was close enough he said, quietly, in an ordinary voice, \"Put your spears down, boys.",
-    "image": "illustrations/neo-128-the-sheepfold.webp",
-    "caption": "Zhi Guo comes over the back wall."
-  },
-  {
-    "book": "neo",
-    "chapter": "129",
-    "after": "He reached the sandbar and climbed up onto it, wet to the waist, and stood in the middle of it with the lantern held up beside his face, so that everybody on both banks could see who he was.",
-    "image": "illustrations/neo-129-the-sandbar.webp",
-    "caption": "The Count walks out alone."
-  },
-  {
-    "book": "neo",
-    "chapter": "130",
-    "after": "He did not move. He did not breathe. Behind him, he felt Ye Xing's fingers close very hard on his sleeve.",
-    "image": "illustrations/neo-130-lot-one.webp",
-    "caption": "Lot One: a page from an older Tower Record."
-  },
-  {
-    "book": "neo",
-    "chapter": "131",
-    "after": "When the first rafts were level with the middle ford, a single drum began to beat on the hill beside Ye Feng.",
-    "image": "illustrations/neo-131-the-drum.webp",
-    "caption": "Gong Bei's drum: rise and shoot."
-  },
-  {
-    "book": "neo",
-    "chapter": "132",
-    "after": "\"Lu Ping!\" screamed the old woman, in a cracked voice that carried all the way across the water.",
-    "image": "illustrations/neo-132-lu-ping.webp",
-    "caption": "A mother calls her son across the river."
-  },
-  {
-    "book": "neo",
-    "chapter": "133",
-    "after": "The next dawn, sixty new arrivals walked out of the gold light in the market square, Han farmers and craftsmen with nothing in their hands, blinking at the broken walls, and the Ledger wrote under them in its quiet gold:",
-    "image": "illustrations/neo-133-pingchang.webp",
-    "caption": "Pingchang: the first dawn under the token."
-  },
-  {
-    "book": "neo",
-    "chapter": "134",
-    "after": "He prayed alone at sunset on the headland, below the Xingmu, with his coat for a mat and his face to the western hills, as he did when there was time and quiet enough.",
-    "image": "illustrations/neo-134-sunset-prayer.webp",
-    "caption": "Sunset prayer below the Xingmu."
-  },
-  {
-    "book": "neo",
-    "chapter": "135",
-    "after": "\"You drew the Northern Dipper for me in the mud,\" said Ah Ru.",
-    "image": "illustrations/neo-135-the-open-court.webp",
-    "caption": "Ah Ru speaks at Wang Meng's open court."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch018",
-    "after": "Then his grey went sideways, very lightly, the way a dancer steps aside, and the long lance went past his ribs by a hand's breadth, and Zhao Tong's spear came round in a short flat arc and struck the Wei rider across the back of the helmet with the shaft.",
-    "image": "illustrations/n3-018-the-stream-duel.webp",
-    "caption": "Zhao Tong in the stream."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch019",
-    "after": "\"Hold,\" said Ye Zhen, quite quietly.",
-    "image": "illustrations/n3-019-the-crescent.webp",
-    "caption": "The First Hundred holds the bend."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch020",
-    "after": "The Wei line broke in front of him like a pot dropped on a stone floor.",
-    "image": "illustrations/n3-020-the-ridge.webp",
-    "caption": "The ridge charge."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch021",
-    "after": "One short. She had counted one short.",
-    "image": "illustrations/n3-021-one-short.webp",
-    "caption": "She counted one short."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch022",
-    "after": "They sat in the boat together.",
-    "image": "illustrations/n3-022-the-boat.webp",
-    "caption": "The King in the fisherman's boat."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch023",
-    "after": "Then he got on it, with a pole, and took it out across the slack water along the edge of the old riverbed, and came back an hour later with eleven people on it, and his contempt did not change at all.",
-    "image": "illustrations/n3-023-door-rafts.webp",
-    "caption": "Rafts made of barn doors."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch024",
-    "after": "He let himself sink further, to the plinth, and put one hand on the cold stone to steady himself, and looked up at the spear.",
-    "image": "illustrations/n3-024-the-drowned-spear.webp",
-    "caption": "The spear that is waiting."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch025",
-    "after": "Zhou Shao stood in the bow of the leading barge through every one of them with a sweep in his hands and his face perfectly calm, shouting the line back to the boat behind him, and the boat behind shouted it to the next, and the whole long fleet went down through the gorges one after another like beads on a string, and not one of them struck the rock sideways.",
-    "image": "illustrations/n3-025-the-gorges.webp",
-    "caption": "Down the Ru in flood."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch026",
-    "after": "They met in the middle.",
-    "image": "illustrations/n3-026-father-and-sons.webp",
-    "caption": "Father and sons, back to back."
-  },
-  {
-    "book": "bmt",
-    "chapter": "ch027",
-    "after": "Lord Zhou Dou cleared his throat, and read aloud, from the empty air.",
-    "image": "illustrations/n3-027-the-world-chat.webp",
-    "caption": "A lord reads the world chat aloud."
-  },
-  {
-    "book": "sah",
-    "chapter": "023",
-    "after": "It rolled.",
-    "image": "illustrations/sah-023-the-rolling-stone.webp",
-    "caption": "His foot finds the rolling stone."
-  },
-  {
-    "book": "sah",
-    "chapter": "024",
-    "after": "She watched him for a long time.",
-    "image": "illustrations/sah-024-the-marsh-fire.webp",
-    "caption": "One arrow, twelve paces."
-  },
-  {
-    "book": "sah",
-    "chapter": "025",
-    "after": "And one by one, she cut their weights off with Old Bian's knife, and dropped the nets down the well, all eleven of them, where they would be a very great nuisance to anyone who wanted water at the post station, and of no use whatever to anyone who wanted to catch a girl with a spear.",
-    "image": "illustrations/sah-025-nets-in-the-well.webp",
-    "caption": "Eleven nets down the well."
-  },
-  {
-    "book": "sah",
-    "chapter": "026",
-    "after": "The Yellow River had no far bank.",
-    "image": "illustrations/sah-026-no-far-bank.webp",
-    "caption": "The river with no far bank."
-  },
-  {
-    "book": "sah",
-    "chapter": "027",
-    "after": "Qiushui swam.",
-    "image": "illustrations/sah-027-the-road-of-fog.webp",
-    "caption": "A road of fog across the Yellow River."
-  },
-  {
-    "book": "sah",
-    "chapter": "028",
-    "after": "The old salt carrier came forward without another word and put a hard brown hand on Xiao Hu's forehead, and then on the side of his neck, and pulled down one eyelid with his thumb, and looked, and grunted.",
-    "image": "illustrations/sah-028-old-kong.webp",
-    "caption": "Old Kong on the Taihang road."
-  },
-  {
-    "book": "sah",
-    "chapter": "029",
-    "after": "A soft, clear, pearly light ran up the shaft from the woman's hands to the head of the spear, the way light runs up a lotus stem in the morning when the sun first touches the pond, and for a breath the whole narrow path between the rocks was lit by it.",
-    "image": "illustrations/sah-029-the-bright-spear.webp",
-    "caption": "White Lotus, bright for a breath."
-  },
-  {
-    "book": "sah",
-    "chapter": "030",
-    "after": "He looked at all of it slowly, carefully, the way Yue Ling herself would have looked, and she saw him understand it, piece by piece, without being told.",
-    "image": "illustrations/sah-030-northwolf.webp",
-    "caption": "Lord NorthWolf at Stone Cup."
-  },
-  {
-    "book": "sah",
-    "chapter": "031",
-    "after": "They broke the bank.",
-    "image": "illustrations/sah-031-breaking-the-bank.webp",
-    "caption": "The Fen comes through the bank."
-  },
-  {
-    "book": "sah",
-    "chapter": "032",
-    "after": "A thousand frightened horses running down a river valley make a sound like the end of the world.",
-    "image": "illustrations/sah-032-the-stampede.webp",
-    "caption": "A thousand horses into the flood."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch001",
-    "after": "He put his heels to Heiyue, and the black horse went down the ridge like a stone off a cliff.",
-    "image": "illustrations/ecl-001-the-last-charge.webp",
-    "caption": "The last charge of the Blackmoon Troop toward the drowned shrine."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch002",
-    "after": "The tower above him had come close at last.",
-    "image": "illustrations/ecl-002-the-ladder.webp",
-    "caption": "Rising up the ladder through the black light."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch003",
-    "after": "And something in him went down the branch with it.",
-    "image": "illustrations/ecl-003-the-branch.webp",
-    "caption": "A pine branch against an iron-backed wolf."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch004",
-    "after": "They gave him a room on the second terrace: a narrow white cell with a window on the cloud sea, a sleeping mat, a lamp, a basin, and a hook on the wall.",
-    "image": "illustrations/ecl-004-azure-cloud-mountain.webp",
-    "caption": "Azure Cloud Mountain above the Greywood."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch005",
-    "after": "And every day, the seven rivers poured into him, and the sea of breath drank them, and stayed almost dry.",
-    "image": "illustrations/ecl-005-seven-rivers.webp",
-    "caption": "Seven rivers pouring into an empty sea."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch006",
-    "after": "Zhao Kun went over backwards.",
-    "image": "illustrations/ecl-006-out-of-the-line.webp",
-    "caption": "Out of the line, with a cracked ash pole."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch007",
-    "after": "until the sand was trampled flat and the sky over the cloud sea had gone grey.",
-    "image": "illustrations/ecl-007-the-white-sand-sword.webp",
-    "caption": "The Long Tide, all night on the white sand."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch008",
-    "after": "Black, where the rest of the rock was grey.",
-    "image": "illustrations/ecl-008-the-dead-cultivator-sword.webp",
-    "caption": "Wen Shu's last words."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch009",
-    "after": "Ye Shuo sat down on the step beside her, and waited, the way he had waited at the Hold.",
-    "image": "illustrations/ecl-009-willow-bend-sword.webp",
-    "caption": "Thirty-one years."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch010",
-    "after": "Ye Shuo felt the skin on the back of his neck go cold.",
-    "image": "illustrations/ecl-010-the-faceless-shrine-sword.webp",
-    "caption": "A face that is not his own."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch011",
-    "after": "\"Yield,\" Gu Ming said, through his teeth, and turned, and walked off the platform without picking up his sword.",
-    "image": "illustrations/ecl-011-cloud-splitting-sword.webp",
-    "caption": "A broken art."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch012",
-    "after": "A sliver of pale stone, as thin as paper and as wide as his palm, slid off the wall and fell to the floor.",
-    "image": "illustrations/ecl-012-the-deep-current-sword.webp",
-    "caption": "The Deep Current."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch013",
-    "after": "At the same moment, her blade touched the side of his throat.",
-    "image": "illustrations/ecl-013-forty-two-and-one-sword.webp",
-    "caption": "Forty-two, and one."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch014",
-    "after": "It touched the net.",
-    "image": "illustrations/ecl-014-the-net-sword.webp",
-    "caption": "A thread through the net."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch015",
-    "after": "Later, on the path back to the Azure Cloud house, with the lanterns of the feast hall behind them and the river black and quiet on either side of the island, Qin Yao fell into step beside him.",
-    "image": "illustrations/ecl-015-the-feast.webp",
-    "caption": "The king's feast in the hall of a thousand lanterns."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch016",
-    "after": "Liu Feng stood absolutely still. Her eyes went very wide.",
-    "image": "illustrations/ecl-016-the-fifth-ring-sword.webp",
-    "caption": "The fifth ring."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch017",
-    "after": "And then, for the first time in his life, Lin Hao of the Azure Cloud Sect gave ground.",
-    "image": "illustrations/ecl-017-step-back.webp",
-    "caption": "The step back."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch018",
-    "after": "And every mirror in the hall cracked.",
-    "image": "illustrations/ecl-018-ten-thousand-reflections-sword.webp",
-    "caption": "He went under them."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch019",
-    "after": "And the point of the grey sword was resting, very lightly, against the hollow of her throat.",
-    "image": "illustrations/ecl-019-the-frozen-lake-sword.webp",
-    "caption": "A cut shoulder, a sword at the throat."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch020",
-    "after": "And the nine suns went out.",
-    "image": "illustrations/ecl-020-nine-suns-sword.webp",
-    "caption": "The nine suns go out."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch021",
-    "after": "Hundred Streams Return to the Sea.",
-    "image": "illustrations/ecl-021-hundred-streams.webp",
-    "caption": "Hundred Streams Return to the Sea."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch022",
-    "after": "It went through the palm. Through the wrist. Through the arm. Through the shoulder.",
-    "image": "illustrations/ecl-022-the-ford-sword.webp",
-    "caption": "The ford below Willow Bend."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch023",
-    "after": "The Sunken Palace stopped rising when its door was level with the surface of the river, at the bottom of the funnel, a long way down.",
-    "image": "illustrations/ecl-023-the-sunken-palace-sword.webp",
-    "caption": "The Sunken Palace rises."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch024",
-    "after": "Then it parted in front of him like a curtain.",
-    "image": "illustrations/ecl-024-the-phoenix-egg-sword.webp",
-    "caption": "She chose him."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch025",
-    "after": "And then, before he could answer, the black ring on his finger went cold as winter, and then warm, and then something in it opened.",
-    "image": "illustrations/ecl-025-holding-the-door.webp",
-    "caption": "Holding the door through seven bolts."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch026",
-    "after": "He went into the inner world for the first time that night, alone, in the narrow room, with the door shut and the egg in his lap.",
-    "image": "illustrations/ecl-026-the-inner-world.webp",
-    "caption": "The inner world opens."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch027",
-    "after": "The red door stood in the corner of the outer elders' courtyard on the fourth terrace, exactly as it had stood all year: plain, dark red, with a brass ring for a handle.",
-    "image": "illustrations/ecl-027-the-black-room.webp",
-    "caption": "The black room."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch028",
-    "after": "They held the water stairs for most of that night.",
-    "image": "illustrations/ecl-028-the-water-stairs-sword.webp",
-    "caption": "Holding the water stairs."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch029",
-    "after": "The seven swords fell.",
-    "image": "illustrations/ecl-029-the-seven-stars-sword.webp",
-    "caption": "The Seven Stars fall."
-  },
-  {
-    "book": "ecl",
-    "chapter": "ch030",
-    "after": "He did not look back. He had learned a long time ago, riding out of the gate of the Blackmoon Hold with a woman standing on the steps behind him, that if you looked back, you never left.",
-    "image": "illustrations/ecl-030-walking-west-sword.webp",
-    "caption": "He doesn't look back."
-  }
+ {
+  "book": "neo",
+  "chapter": "prologue",
+  "after": "Every light in the hall turned white.",
+  "image": "illustrations/neo-prologue.webp",
+  "caption": "The upload hall on the night of the storm."
+ },
+ {
+  "book": "neo",
+  "chapter": "1",
+  "after": "Then I'll build it.",
+  "image": "illustrations/neo-001-wangyue-bay.webp",
+  "caption": "Ye Feng looks out over the empty bay."
+ },
+ {
+  "book": "neo",
+  "chapter": "2",
+  "after": "The moon had cleared the sea now.",
+  "image": "illustrations/neo-002-moonlit-pavilion.webp",
+  "caption": "Ye Feng and Luna look out over Wangyue Bay."
+ },
+ {
+  "book": "neo",
+  "chapter": "3",
+  "after": "One man, one fire and one tree.",
+  "image": "illustrations/neo-003-first-fire.webp",
+  "caption": "Ye Feng and Luna sit by their first fire beneath Xingmu."
+ },
+ {
+  "book": "neo",
+  "chapter": "4",
+  "after": "At Han Shuang standing at the top of the stream path with a stick for a spear, and Maui standing at the edge of the surf with nothing at all.",
+  "image": "illustrations/neo-004-sixteen.webp",
+  "caption": "Wangyue’s first settlers gather around the fire."
+ },
+ {
+  "book": "neo",
+  "chapter": "5",
+  "after": "It went in like a key into a lock.",
+  "image": "illustrations/neo-005-forty-tides.webp",
+  "caption": "Maui offers Ye Feng a sheath that has waited forty tides and more."
+ },
+ {
+  "book": "neo",
+  "chapter": "6",
+  "after": "Then he bowed to Han Xin, deeper than he had bowed to his lord.",
+  "image": "illustrations/neo-006-two-cards.webp",
+  "caption": "Qi Jiguang meets the general whose battles he studied."
+ },
+ {
+  "book": "neo",
+  "chapter": "7",
+  "after": "The girl stared at her.",
+  "image": "illustrations/neo-007-reunion.webp",
+  "caption": "Han Shuang and Yanzi find each other in the burned hamlet."
+ },
+ {
+  "book": "neo",
+  "chapter": "8",
+  "after": "He handed Ye Feng the arrow.",
+  "image": "illustrations/neo-008-the-arrow.webp",
+  "caption": "Han Xin hands Ye Feng the arrow after the fighting."
+ },
+ {
+  "book": "neo",
+  "chapter": "9",
+  "after": "At first light the next morning, Ye Feng came down to stand his own lesson and found sixty-three people waiting on the flat ground in the grey cold.",
+  "image": "illustrations/neo-009-first-light.webp",
+  "caption": "Wangyue’s first volunteers gather below Xingmu."
+ },
+ {
+  "book": "neo",
+  "chapter": "10",
+  "after": "He opened the door of the headman's house for the first time in nine days and stood in it.",
+  "image": "illustrations/neo-010-old-gu.webp",
+  "caption": "Old Gu opens his door to Ye Feng."
+ },
+ {
+  "book": "neo",
+  "chapter": "11",
+  "after": "Bayu did not shout.",
+  "image": "illustrations/neo-011-bayu.webp",
+  "caption": "Bayu keeps time on his battered wooden shield."
+ },
+ {
+  "book": "neo",
+  "chapter": "12",
+  "after": "The dawn chime came while they were still in the valley.",
+  "image": "illustrations/neo-012-return-at-dawn.webp",
+  "caption": "The people of Mulberry Ford head for the coast."
+ },
+ {
+  "book": "neo",
+  "chapter": "13",
+  "after": "You are making a bath, not a pond!",
+  "image": "illustrations/neo-013-salt-pans.webp",
+  "caption": "Mak Senah oversees Wangyue’s first salt pans."
+ },
+ {
+  "book": "neo",
+  "chapter": "14",
+  "after": "He saw her, and stopped, and after a moment came and sat on the sand a little way off, not too close.",
+  "image": "illustrations/neo-014-yanzi-at-the-bay.webp",
+  "caption": "Yanzi and Ye Feng sit by the glowing bay."
+ },
+ {
+  "book": "neo",
+  "chapter": "15",
+  "after": "Tie Shou did weep.",
+  "image": "illustrations/neo-015-the-iron-cart.webp",
+  "caption": "Tie Shou sees the cart of iron bars."
+ },
+ {
+  "book": "neo",
+  "chapter": "16",
+  "after": "Then they waited.",
+  "image": "illustrations/neo-016-starlight.webp",
+  "caption": "Ye Feng waits in the stubble below the estate wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "17",
+  "after": "The Xingmu was glowing.",
+  "image": "illustrations/neo-017-golden-xingmu.webp",
+  "caption": "Xingmu turns gold as the column comes home."
+ },
+ {
+  "book": "neo",
+  "chapter": "18",
+  "after": "I need them to shoot once more.",
+  "image": "illustrations/neo-018-listening-slope.webp",
+  "caption": "Saeli listens into the dark."
+ },
+ {
+  "book": "neo",
+  "chapter": "19",
+  "after": "We are halfway, my lord.",
+  "image": "illustrations/neo-019-halfway.webp",
+  "caption": "Han Xin and Ye Feng watch the valley from the wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "20",
+  "after": "\"My lord,\" she said, \"you jumped off the wall.\"",
+  "image": "illustrations/neo-020-red-moon.webp",
+  "caption": "Han Shuang finds Ye Feng below the wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "21",
+  "after": "It's for your mother.",
+  "image": "illustrations/neo-021-salt-jar.webp",
+  "caption": "Ye Feng offers a traveler his last jar of salt."
+ },
+ {
+  "book": "neo",
+  "chapter": "22",
+  "after": "She opened the Ledger to the front, and the lines came up, filling themselves one after another.",
+  "image": "illustrations/neo-022-territory-page.webp",
+  "caption": "Luna opens the Moon Ledger to Wangyue’s territory page."
+ },
+ {
+  "book": "neo",
+  "chapter": "23",
+  "after": "Ye Feng stood on the slope by the Xingmu and looked down at all of it, and then up, past the headland, at the sea.",
+  "image": "illustrations/neo-023-xingmu-overlook.webp",
+  "caption": "Ye Feng looks down over a growing Wangyue."
+ },
+ {
+  "book": "neo",
+  "chapter": "24",
+  "after": "They rode back through Stone Gate with the girls on the carts and the captured horses behind them, and the miller came out of his burned barn and saw his daughter in the second cart and sat down in the road.",
+  "image": "illustrations/neo-024-daughter-returns.webp",
+  "caption": "A miller sees his daughter return to Stone Gate."
+ },
+ {
+  "book": "neo",
+  "chapter": "25",
+  "after": "I am not too old for that.",
+  "image": "illustrations/neo-025-tan-wu.webp",
+  "caption": "Tan Wu walks beside Qinglei on the road to Wangyue."
+ },
+ {
+  "book": "neo",
+  "chapter": "26",
+  "after": "Everyone looked at him.",
+  "image": "illustrations/neo-026-commons-table.webp",
+  "caption": "Ye Feng chooses where to stand."
+ },
+ {
+  "book": "neo",
+  "chapter": "27",
+  "after": "Twenty-two lights on the water, coming round the headland in a long swaying line toward the reef gap.",
+  "image": "illustrations/neo-027-lights-on-water.webp",
+  "caption": "Lights round the headland at high tide."
+ },
+ {
+  "book": "neo",
+  "chapter": "28",
+  "after": "Ye Feng stayed kneeling beside him on the wet sand until he was sure, and then a while longer, and the youngest boy sat beside them both with his face in his hands and did not make a sound.",
+  "image": "illustrations/neo-028-wet-sand.webp",
+  "caption": "Ye Feng stays beside Guo Heng at the water’s edge."
+ },
+ {
+  "book": "neo",
+  "chapter": "29",
+  "after": "He was small and weathered and brown, of no age at all, in a sailor's short jacket.",
+  "image": "illustrations/neo-029-old-crab.webp",
+  "caption": "A weathered pilot brings his coaster through the reef."
+ },
+ {
+  "book": "neo",
+  "chapter": "30",
+  "after": "Old Crab looked at him for a long moment.",
+  "image": "illustrations/neo-030-coaster-in-reeds.webp",
+  "caption": "Old Crab takes the rescued passengers into the reeds."
+ },
+ {
+  "book": "neo",
+  "chapter": "31",
+  "after": "The Heron went backwards off the end of the jetty into the slow brown river, and the grey cloak spread out on the water, and then the river took it.",
+  "image": "illustrations/neo-031-grey-cloak.webp",
+  "caption": "The river carries the Heron’s cloak away."
+ },
+ {
+  "book": "neo",
+  "chapter": "32",
+  "after": "He closed the book.",
+  "image": "illustrations/neo-032-black-book.webp",
+  "caption": "Old Crab waits for the man in blue to answer."
+ },
+ {
+  "book": "neo",
+  "chapter": "33",
+  "after": "He read it alone, in the empty hall, with the shutters open on the bay.",
+  "image": "illustrations/neo-033-sealed-letter.webp",
+  "caption": "Ye Feng reads Aisyah’s letter in the empty hall."
+ },
+ {
+  "book": "neo",
+  "chapter": "34",
+  "after": "Lady Wang smiled very slightly.",
+  "image": "illustrations/neo-034-lady-wang.webp",
+  "caption": "Lady Wang tells Ye Feng what happens when the pirates find a full wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "35",
+  "after": "And the red sail.",
+  "image": "illustrations/neo-035-red-sail.webp",
+  "caption": "Maui brings word from the harbour."
+ },
+ {
+  "book": "neo",
+  "chapter": "36",
+  "after": "For the first time, something moved in the giant's face.",
+  "image": "illustrations/neo-036-the-crabs-boy.webp",
+  "caption": "One Ear recognizes the boy Ye Feng is asking about."
+ },
+ {
+  "book": "neo",
+  "chapter": "37",
+  "after": "He drew the sword a hand's width and knocked on the gate with the hilt, three times.",
+  "image": "illustrations/neo-037-riders-before-the-iron-gate.webp",
+  "caption": "Tian knocks at the throat wall, the Wind Riders behind him."
+ },
+ {
+  "book": "neo",
+  "chapter": "38",
+  "after": "Three thousand people with their backs to a gate that would not open.",
+  "image": "illustrations/neo-038-closed-gate.webp",
+  "caption": "Refugees shelter below Huang’s closed gate."
+ },
+ {
+  "book": "neo",
+  "chapter": "39",
+  "after": "He looked at the ring of fires slowly closing round them in the dark.",
+  "image": "illustrations/neo-039-ring-of-fires.webp",
+  "caption": "Ye Feng and Han Xin watch the fires rise around Huang."
+ },
+ {
+  "book": "neo",
+  "chapter": "40",
+  "after": "Taishi Ci lay in the ash beside Ye Feng with his long bow on the ground in front of him and three black-fletched arrows laid out beside it, side by side, very neat.",
+  "image": "illustrations/neo-040-black-feathers.webp",
+  "caption": "Taishi Ci and Ye Feng wait beneath paling stars."
+ },
+ {
+  "book": "neo",
+  "chapter": "41",
+  "after": "The pole leaned, and leaned, and the great yellow banner came down off the top of the knoll in a long slow fold, like a sail dropping, and lay in the dust.",
+  "image": "illustrations/neo-041-falling-banner.webp",
+  "caption": "Taishi Ci's arrows bring down the yellow banner."
+ },
+ {
+  "book": "neo",
+  "chapter": "42",
+  "after": "The Lord's Hall was gone.",
+  "image": "illustrations/neo-042-the-keep.webp",
+  "caption": "Wangyue wakes as a Stronghold."
+ },
+ {
+  "book": "neo",
+  "chapter": "43",
+  "after": "It rose in a long smooth hump, the way the sea rises over a sandbar, and broke, and in the white of it were heads and shoulders and arms.",
+  "image": "illustrations/neo-043-rising-from-the-reef.webp",
+  "caption": "Maui and the Nacari rise in the reef gap."
+ },
+ {
+  "book": "neo",
+  "chapter": "44",
+  "after": "Up on the headland, Kirana's lantern had already swung twice.",
+  "image": "illustrations/neo-044-kiranas-lantern.webp",
+  "caption": "Kirana signals from the headland."
+ },
+ {
+  "book": "neo",
+  "chapter": "45",
+  "after": "Old Thunder stood very still.",
+  "image": "illustrations/neo-045-old-thunder.webp",
+  "caption": "The Bear King of Mount Lao falls in the broken gate."
+ },
+ {
+  "book": "neo",
+  "chapter": "46",
+  "after": "She looked up at Ye Feng on the dark green horse in the gateway, and smiled.",
+  "image": "illustrations/neo-046-dusk-at-the-stronghold-gate.webp",
+  "caption": "Xing and the Daughters of the Sky at the Stronghold gate."
+ },
+ {
+  "book": "neo",
+  "chapter": "47",
+  "after": "Above it, carved into the rock in letters he could not read and somehow understood, were three words.",
+  "image": "illustrations/neo-047-the-black-door.webp",
+  "caption": "The black door at the foot of the cliff."
+ },
+ {
+  "book": "neo",
+  "chapter": "48",
+  "after": "They went over the wall and through the goats, and the goats, to everyone's great relief, only moved aside.",
+  "image": "illustrations/neo-048-goat-yard.webp",
+  "caption": "The goat path into the king's tower."
+ },
+ {
+  "book": "neo",
+  "chapter": "49",
+  "after": "It took him a long time, because his characters were still bad, and because he kept stopping.",
+  "image": "illustrations/neo-049-the-letter.webp",
+  "caption": "Ye Feng writes to Langya himself."
+ },
+ {
+  "book": "neo",
+  "chapter": "50",
+  "after": "In both hands he held a long-handled blade, a heavy curved edge on a pole as long as he was, and he held it across his body in front of the carts as calmly as a farmer holds a hoe.",
+  "image": "illustrations/neo-050-the-ford.webp",
+  "caption": "A stranger holds the ford alone."
+ },
+ {
+  "book": "neo",
+  "chapter": "51",
+  "after": "Then he went down on one knee on the beaten earth, slowly, the way a great tree leans, with his round black shield beside him.",
+  "image": "illustrations/neo-051-the-kneeling.webp",
+  "caption": "Tian and Xing kneel and take the Ye name."
+ },
+ {
+  "book": "neo",
+  "chapter": "52",
+  "after": "He jumped down from his rock onto the shingle with a heavy sword in his right hand and the hook raised in front of him, and he planted his feet and waited.",
+  "image": "illustrations/neo-052-the-hook.webp",
+  "caption": "Guan Yu rides at the pirate captain on the shingle."
+ },
+ {
+  "book": "neo",
+  "chapter": "53",
+  "after": "Han Xin was smiling very slightly at the map.",
+  "image": "illustrations/neo-053-the-boom-plan.webp",
+  "caption": "The council plans to close the reef gap."
+ },
+ {
+  "book": "neo",
+  "chapter": "54",
+  "after": "Ye Feng looked at the burning ship with the black boats against its side.",
+  "image": "illustrations/neo-054-burning-merchant.webp",
+  "caption": "A merchant ship burns among the pirate boats."
+ },
+ {
+  "book": "neo",
+  "chapter": "55",
+  "after": "\"If I give them back, I think I might have a friend with sixty.\"",
+  "image": "illustrations/neo-055-the-friend.webp",
+  "caption": "Ye Feng gives Mi Zhu his ships back."
+ },
+ {
+  "book": "neo",
+  "chapter": "56",
+  "after": "Behind him the Moon Shields came on in a double column with their shields lifted and overlapped above their heads, like the scales of a long purple animal, and Ye Feng and Han Shuang walked in the middle of it, and the bridge swung under all of them like a hammock in a wind.",
+  "image": "illustrations/neo-056-chain-bridge.webp",
+  "caption": "The Moon Shields cross the chain bridge."
+ },
+ {
+  "book": "neo",
+  "chapter": "57",
+  "after": "Now the pine trunks lay along the beach below the north headland, chained end to end, waiting.",
+  "image": "illustrations/neo-057-the-waiting-boom.webp",
+  "caption": "Old Crab watches the boom being made ready."
+ },
+ {
+  "book": "neo",
+  "chapter": "58",
+  "after": "The first great ship lay in front of them, tilted, with its bow up on the boom and its sails burning like torches above it, and the pirates still on its deck were not fighting any more.",
+  "image": "illustrations/neo-058-fire-in-the-gap.webp",
+  "caption": "The pirate ship burns on the boom."
+ },
+ {
+  "book": "neo",
+  "chapter": "59",
+  "after": "Hou Cheng's knife went through the rope.",
+  "image": "illustrations/neo-059-the-rope.webp",
+  "caption": "The cliff road comes down on the pirates."
+ },
+ {
+  "book": "neo",
+  "chapter": "60",
+  "after": "He was lean and narrow and not very tall, with a shaved head and a face like a blade, wearing a coat of small black iron scales that glittered wetly in the lantern light, and he moved faster than anyone Ye Feng had ever seen move.",
+  "image": "illustrations/neo-060-black-eel.webp",
+  "caption": "Black Eel comes over the stern rail."
+ },
+ {
+  "book": "neo",
+  "chapter": "61",
+  "after": "He saw it come up through the window of Maelis's clinic beside the Xingmu, sitting on the edge of a bed with his left arm laid out on a clean cloth while the Eldari healer cleaned the long cut with something that stung like fire and then bound a silver-green Xingmu leaf over it.",
+  "image": "illustrations/neo-061-xingmu-leaf.webp",
+  "caption": "Maelis binds a Xingmu leaf over the cut."
+ },
+ {
+  "book": "neo",
+  "chapter": "62",
+  "after": "For a moment she did not understand.",
+  "image": "illustrations/neo-062-ye-shuang.webp",
+  "caption": "Han Shuang is called to kneel with the family."
+ },
+ {
+  "book": "neo",
+  "chapter": "63",
+  "after": "They did not cut down the farmers.",
+  "image": "illustrations/neo-063-the-push.webp",
+  "caption": "Ye Tian pushes the rebel crowd back from the gate."
+ },
+ {
+  "book": "neo",
+  "chapter": "64",
+  "after": "Saeli's archers shot fire into their hides, and they began to smoke.",
+  "image": "illustrations/neo-064-sinking-towers.webp",
+  "caption": "The siege towers sink in the soft ground."
+ },
+ {
+  "book": "neo",
+  "chapter": "65",
+  "after": "An arrow went past Ye Feng's head so close that he felt the wind of it, and took the bull in the left eye.",
+  "image": "illustrations/neo-065-iron-horn-king.webp",
+  "caption": "Ye Xing's arrow takes the Iron-Horn King in the eye."
+ },
+ {
+  "book": "neo",
+  "chapter": "66",
+  "after": "Then she said, \"Brother,\" very quietly, as if testing whether the word would hold her weight, and Ye Shuang put an arm round her shoulders before anyone else could.",
+  "image": "illustrations/neo-066-a-new-name.webp",
+  "caption": "A new name beneath the Xingmu."
+ },
+ {
+  "book": "neo",
+  "chapter": "66",
+  "after": "Where a man had no one left to answer for him, a voice from the long rows of the Daughters of the Sky answered instead, Here, a different woman each time, so that no name was left in silence.",
+  "image": "illustrations/neo-066-here.webp",
+  "caption": "The fourteen are read home on the ridge."
+ },
+ {
+  "book": "neo",
+  "chapter": "67",
+  "after": "She did not look at him when she said it, and he did not look at her.",
+  "image": "illustrations/neo-067-above-the-graves.webp",
+  "caption": "Ye Feng and Aisyah on the wall above the graves."
+ },
+ {
+  "book": "neo",
+  "chapter": "68",
+  "after": "While the boats were being found, Ye Feng saw Ye Shuang go down to the end of the jetty and sit beside the girl, with her spear across her knees beside the girl's pole, and her bare feet in the warm water too.",
+  "image": "illustrations/neo-068-the-jetty.webp",
+  "caption": "Ye Shuang sits with the ferry girl."
+ },
+ {
+  "book": "neo",
+  "chapter": "69",
+  "after": "In the middle of them all, on a raised stone with the whole drowned kingdom spread out below him in the moonlight, stood a tall thin man in a long grey robe with a silver crown shaped like a wave, shouting at the ringers to ring harder.",
+  "image": "illustrations/neo-069-the-belfry.webp",
+  "caption": "The Tide King in his belfry."
+ },
+ {
+  "book": "neo",
+  "chapter": "70",
+  "after": "It wrapped round the spear shaft just below the helmet, three times, with a sound like a bell, and the weight swung round and knocked the helmet off.",
+  "image": "illustrations/neo-070-the-chain.webp",
+  "caption": "Ah Hai's chain earns his seat in the Moon Guard."
+ },
+ {
+  "book": "neo",
+  "chapter": "71",
+  "after": "Ye Feng saw the chains fly, low and spinning, and wrap round the spokes of the great wheels.",
+  "image": "illustrations/neo-071-the-wheels.webp",
+  "caption": "The chariots of Shang go over."
+ },
+ {
+  "book": "neo",
+  "chapter": "72",
+  "after": "Up close, E Lai was even bigger.",
+  "image": "illustrations/neo-072-e-lai.webp",
+  "caption": "E Lai waits on the bridge to the Deer Terrace."
+ },
+ {
+  "book": "neo",
+  "chapter": "73",
+  "after": "In front of it was a table of black stone, and on the table, nothing at all.",
+  "image": "illustrations/neo-073-the-hall-of-lots.webp",
+  "caption": "The Lotkeeper opens the first sale."
+ },
+ {
+  "book": "neo",
+  "chapter": "74",
+  "after": "Then she reached out and rang the red bell at her seat, once, hard, so that the sound went all the way up into the painted sky.",
+  "image": "illustrations/neo-074-the-red-bell.webp",
+  "caption": "Su Qingluan rings the red bell."
+ },
+ {
+  "book": "neo",
+  "chapter": "75",
+  "after": "Ye Wan'er had already crouched beside the mark with her slate on her knee, writing down the fees she meant to charge, and Mi Zhu, after a moment, crouched down beside her and began, very gently, to argue.",
+  "image": "illustrations/neo-075-free-port.webp",
+  "caption": "The Free Port seal on the harbour steps."
+ },
+ {
+  "book": "neo",
+  "chapter": "76",
+  "after": "Mak Senah stood with both hands holding the brim of her hat and said nothing at all for a long time.",
+  "image": "illustrations/neo-076-salt-terraces.webp",
+  "caption": "The salt terraces appear on the Gull Isles cliff."
+ },
+ {
+  "book": "neo",
+  "chapter": "77",
+  "after": "Eight hundred spear points came over the top of the cart wall at once, in two rows, the front row low and the back row high, as Qi Jiguang had drilled every man in Wangyue to stand.",
+  "image": "illustrations/neo-077-the-cart-wall.webp",
+  "caption": "The cart wall at Kunyu."
+ },
+ {
+  "book": "neo",
+  "chapter": "78",
+  "after": "He dropped it in the pit.",
+  "image": "illustrations/neo-078-the-headcloths.webp",
+  "caption": "Hou Cheng burns his yellow headcloth."
+ },
+ {
+  "book": "neo",
+  "chapter": "79",
+  "after": "\"We have no money,\" said the man called Gao Shun. \"We have hands. We will work for it.\"",
+  "image": "illustrations/neo-079-gao-shun-at-the-gate.webp",
+  "caption": "Gao Shun comes to the wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "80",
+  "after": "\"Then I will have to drink yours, Captain,\" he said, wiping his mouth. \"Every time. For the rest of our lives. It is the least a friend can do.\"",
+  "image": "illustrations/neo-080-i-do-not-drink.webp",
+  "caption": "Gao Shun does not drink."
+ },
+ {
+  "book": "neo",
+  "chapter": "81",
+  "after": "Now the sun came up behind the column, throwing their shadows long in front of them down the road toward Beihai",
+  "image": "illustrations/neo-081-the-road-west.webp",
+  "caption": "The column marches for Beihai."
+ },
+ {
+  "book": "neo",
+  "chapter": "82",
+  "after": "A second followed it. Then a third.",
+  "image": "illustrations/neo-082-three-fire-arrows.webp",
+  "caption": "Three fire arrows over Beihai."
+ },
+ {
+  "book": "neo",
+  "chapter": "83",
+  "after": "Guan Yu rode forward, and swung the long blade once, and the banner pole came down.",
+  "image": "illustrations/neo-083-the-yellow-banner-falls.webp",
+  "caption": "Guan Yu brings down Guan Hai's banner."
+ },
+ {
+  "book": "neo",
+  "chapter": "84",
+  "after": "He laid his long bow on the floor in front of him.",
+  "image": "illustrations/neo-084-taishi-ci-kneels.webp",
+  "caption": "Taishi Ci swears to Wangyue."
+ },
+ {
+  "book": "neo",
+  "chapter": "85",
+  "after": "It was a man from Beihai, Ye Feng saw.",
+  "image": "illustrations/neo-083-a-voice-from-beihai.webp",
+  "caption": "A man from Beihai answers for the dead."
+ },
+ {
+  "book": "neo",
+  "chapter": "86",
+  "after": "Then the children ran along the ropes with tapers of their own, and the lights went down the quay one after another, red and white and gold, until the whole harbour was a ribbon of light reflected in the black water.",
+  "image": "illustrations/neo-084-the-night-market.webp",
+  "caption": "The first night market on the Wangyue quay."
+ },
+ {
+  "book": "neo",
+  "chapter": "87",
+  "after": "The fleet was going out.",
+  "image": "illustrations/neo-085-the-fleet-goes-north.webp",
+  "caption": "Fen watches the fleet sail north."
+ },
+ {
+  "book": "neo",
+  "chapter": "88",
+  "after": "Rauri's divers went over the side of the junk without a splash.",
+  "image": "illustrations/neo-086-into-the-fog.webp",
+  "caption": "Rauri's divers slip into the fog."
+ },
+ {
+  "book": "neo",
+  "chapter": "89",
+  "after": "Pan Gui stood very still for a moment, with the sabre still raised.",
+  "image": "illustrations/neo-087-four-black-hands.webp",
+  "caption": "Pan Gui, elder of the Brothers Pan, falls."
+ },
+ {
+  "book": "neo",
+  "chapter": "90",
+  "after": "They managed nearly a quarter of an hour, which Xiao Qiu said was a good start.",
+  "image": "illustrations/neo-088-the-green-lamp-step.webp",
+  "caption": "Waiting on the step of the Green Lamp."
+ },
+ {
+  "book": "neo",
+  "chapter": "91",
+  "after": "Han Xin bowed his head, and stepped back",
+  "image": "illustrations/neo-089-moonrise-on-the-beach.webp",
+  "caption": "Moonrise on the beach before Jingxing."
+ },
+ {
+  "book": "neo",
+  "chapter": "92",
+  "after": "But the same face, and the same way of standing",
+  "image": "illustrations/neo-090-the-young-general.webp",
+  "caption": "Han Xin watches his younger self."
+ },
+ {
+  "book": "neo",
+  "chapter": "93",
+  "after": "There were red flags on every tower except the four round the east gate.",
+  "image": "illustrations/neo-091-red-flags.webp",
+  "caption": "Forty red flags over the camp of Zhao."
+ },
+ {
+  "book": "neo",
+  "chapter": "94",
+  "after": "and Han Xin ate.",
+  "image": "illustrations/neo-092-breakfast.webp",
+  "caption": "Breakfast on the beach after Jingxing."
+ },
+ {
+  "book": "neo",
+  "chapter": "95",
+  "after": "\"Brother Tian,\" said Ye Chuan, still on his back. \"Come and be a tiger. You are already a tiger. You only have to get down.\"",
+  "image": "illustrations/neo-095-the-bear.webp",
+  "caption": "Hua Tuo teaches the Five Animals play."
+ },
+ {
+  "book": "neo",
+  "chapter": "96",
+  "after": "It went round the hall like a stone through ice.",
+  "image": "illustrations/neo-096-the-waystones.webp",
+  "caption": "Ye Feng outbids the Nine Gates for the waystones."
+ },
+ {
+  "book": "neo",
+  "chapter": "97",
+  "after": "High on the far side of the hall, Shen Yan rose from his seat, which no lord had done all day.",
+  "image": "illustrations/neo-097-the-sealed-lot.webp",
+  "caption": "Shen Yan wins the Gold Territory Token."
+ },
+ {
+  "book": "neo",
+  "chapter": "98",
+  "after": "\"I can't tell,\" he said at last.",
+  "image": "illustrations/neo-098-mother-lin.webp",
+  "caption": "Mother Lin's pearl test."
+ },
+ {
+  "book": "neo",
+  "chapter": "99",
+  "after": "\"Tell Zang Ba thank you for the wine,\" he said. \"Tell him I'll open it in his house.\"",
+  "image": "illustrations/neo-099-the-herald.webp",
+  "caption": "Zang Ba's herald comes down the gorge."
+ },
+ {
+  "book": "neo",
+  "chapter": "100",
+  "after": "The lord came over the edge beside him a moment later, and then Ye Shuang, and then Mo Lin, and then, one after another, the soldiers of the Xingmu Guard, crawling over the lip of the cliff in the dark and lying down flat in the grass without a sound.",
+  "image": "illustrations/neo-100-hawks-ladder.webp",
+  "caption": "Over the top of the Hawk's Ladder."
+ },
+ {
+  "book": "neo",
+  "chapter": "101",
+  "after": "Ye Feng stood on the ridge of the roof between them and looked down the gorge.",
+  "image": "illustrations/neo-101-banners-on-the-roof.webp",
+  "caption": "The two banners rise over Stone Gate."
+ },
+ {
+  "book": "neo",
+  "chapter": "102",
+  "after": "\"Lord of the sea! Next time, I choose the season! And the door!\"",
+  "image": "illustrations/neo-102-zang-ba-rope.webp",
+  "caption": "Zang Ba escapes down the rope."
+ },
+ {
+  "book": "neo",
+  "chapter": "103",
+  "after": "Ye Feng planted the token at dawn, beside the well.",
+  "image": "illustrations/neo-103-taishan-well.webp",
+  "caption": "Taishan is founded at the well-house."
+ },
+ {
+  "book": "neo",
+  "chapter": "104",
+  "after": "Seri sewed the eighth patch onto the banner that night, in the Heaven's Shields' hall, by lamplight.",
+  "image": "illustrations/neo-104-patch-eight.webp",
+  "caption": "Seri sews the eighth patch."
+ },
+ {
+  "book": "neo",
+  "chapter": "105",
+  "after": "At the end of the hall, Ye Chuan had come away from the doorway.",
+  "image": "illustrations/neo-105-the-plum-seal.webp",
+  "caption": "The plum-flower seal at the banquet."
+ },
+ {
+  "book": "neo",
+  "chapter": "106",
+  "after": "\"Then she'd be a grown woman now. Somewhere. If she's alive, she's at the far end of that thread, not this one. I'd like to follow it all the way, before anybody cuts it.\" He paused. \"I'm not asking you to forget. I'm asking you to wait.\"",
+  "image": "illustrations/neo-106-the-wall.webp",
+  "caption": "Ye Chuan on the Throat Wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "107",
+  "after": "\"More than fifty ox carts, Master Xiao,\" she said. \"Loaded to the axle. Perhaps sixty, on these roads.\"",
+  "image": "illustrations/neo-107-the-ox-carts.webp",
+  "caption": "What twenty million cash weighs."
+ },
+ {
+  "book": "neo",
+  "chapter": "108",
+  "after": "\"Green Thunder,\" he said, with his hand still on the filly's forehead, and nodded back at the dark horse at the gate. \"And Red Thunder. Chilei.\"",
+  "image": "illustrations/neo-108-chilei.webp",
+  "caption": "Chilei is named."
+ },
+ {
+  "book": "neo",
+  "chapter": "109",
+  "after": "\"Three months, Brother,\" she said, very quietly. \"And the bread is still warm.\"",
+  "image": "illustrations/neo-109-the-warm-bread.webp",
+  "caption": "Home, three months later in the Tower, a single night outside."
+ },
+ {
+  "book": "neo",
+  "chapter": "110",
+  "after": "\"The stoves,\" said Ye Chuan, with his mouth full of tea leaves. \"Pang Juan counts the stoves.\"",
+  "image": "illustrations/neo-110-the-stoves.webp",
+  "caption": "Han Xin tells the story of Maling."
+ },
+ {
+  "book": "neo",
+  "chapter": "111",
+  "after": "The thin, ink-stained hand took the crutch out of Wei Chengzhi's hands.",
+  "image": "illustrations/neo-111-sun-bin.webp",
+  "caption": "Sun Bin in the covered cart."
+ },
+ {
+  "book": "neo",
+  "chapter": "112",
+  "after": "Fei Lian came up the last open stretch of the slope alone, faster than a running horse.",
+  "image": "illustrations/neo-112-fei-lian.webp",
+  "caption": "Fei Lian charges the ridge."
+ },
+ {
+  "book": "neo",
+  "chapter": "113",
+  "after": "They had been waiting all night. He could see it in their faces.",
+  "image": "illustrations/neo-113-the-wall-shouts.webp",
+  "caption": "Wangyue welcomes the Maling party home."
+ },
+ {
+  "book": "neo",
+  "chapter": "114",
+  "after": "Then a light appeared at the very top of the storehouse tower.",
+  "image": "illustrations/neo-114-the-tower-light.webp",
+  "caption": "The Daughters of the Sky take the storehouse tower."
+ },
+ {
+  "book": "neo",
+  "chapter": "115",
+  "after": "\"Then we will both catch nothing,\" said Jiang Ziya at last, \"and have a great deal of time to talk.\"",
+  "image": "illustrations/neo-115-the-straight-hook.webp",
+  "caption": "Ye Feng fishes beside Jiang Ziya."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch002",
+  "after": "Lin Hu unfurled the banner.",
+  "image": "illustrations/n3-001-the-banner.webp",
+  "caption": "The banner of the Blackmoon Troop goes up over the Moon City."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch004",
+  "after": "He wrote it in his own hand, plainly, the way Han Xin had taught him: what, where, how many, what next.",
+  "image": "illustrations/n3-002-first-report.webp",
+  "caption": "The first report to the King, by the last fire."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch005",
+  "after": "He felt them stop being afraid.",
+  "image": "illustrations/n3-003-the-wedge.webp",
+  "caption": "The Spearhead of Heaven: three hundred riders become one."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch007",
+  "after": "Then he sighed, the deep, put-upon sigh of a younger brother who has been sighing at an elder brother all his life, and dropped the sword with a clatter on the stones, and put his arms around Ye Shuo's back, and held on too.",
+  "image": "illustrations/n3-004-the-brothers.webp",
+  "caption": "Ye Shuo and Ye Heng at the gate of Yuejin."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch008",
+  "after": "Ye Weixing, on the parapet, made a small noise that might have been a laugh, and turned her face away to the dark.",
+  "image": "illustrations/n3-005-the-tower.webp",
+  "caption": "\"You break it. I build it.\""
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch010",
+  "after": "Behind Ye Shuo the entire Fourth Hundred became completely, magnificently silent.",
+  "image": "illustrations/n3-006-the-date.webp",
+  "caption": "Heiyue meets Fan Yuqing."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch011",
+  "after": "They were all crouched down below the gunwales in a tight knot, watching her face, and their mouths were moving too.",
+  "image": "illustrations/n3-007-counting.webp",
+  "caption": "Arrows over the Ru, and the children counting."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch013",
+  "after": "Fan Yuqing was standing at the top of the tower stairs.",
+  "image": "illustrations/n3-008-sunset-prayer.webp",
+  "caption": "Sunset prayer on the tower, and the tea going cold."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch016",
+  "after": "as if the mountain itself had built it in the night and was waiting to see who would come.",
+  "image": "illustrations/n3-009-blackmoon-hold.webp",
+  "caption": "Dawn on the mountain: Blackmoon Hold, raised in a night."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch017",
+  "after": "Cheng Jian sat on it and looked at nothing in particular.",
+  "image": "illustrations/n3-010-the-twelfth-fall.webp",
+  "caption": "The twelfth time, the horse did not throw him."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch001",
+  "after": "She smiled the faint, ancient smile of a woman who had been right about everything for a very long time.",
+  "image": "illustrations/n3-011-the-star-tree.webp",
+  "caption": "Morning under the Star Tree, on the day Ye Shuo leaves home."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch003",
+  "after": "The mare shrieked. Mo Yan shrieked. The column, for the first time in three days, broke step entirely, because nobody could ride straight for laughing.",
+  "image": "illustrations/n3-012-the-ear.webp",
+  "caption": "Heiyue bites the grey mare's ear, and the whole column breaks step."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch006",
+  "after": "Then the mist opened in front of him, and the camp was there.",
+  "image": "illustrations/n3-013-the-moon-ford.webp",
+  "caption": "Out of the chestnut wood at dawn, between the empty fires."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch009",
+  "after": "Nobody in the boats moved.",
+  "image": "illustrations/n3-014-the-toll-boats.webp",
+  "caption": "Three toll boats, boxed in on the ford."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch012",
+  "after": "He had never in his life known what to do when people did this.",
+  "image": "illustrations/n3-015-the-slipway.webp",
+  "caption": "The Fan household kneels on the slipway."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch014",
+  "after": "\"You're the one from the ford,\" she whispered. \"The black horsemen.\"",
+  "image": "illustrations/n3-016-the-cliff.webp",
+  "caption": "An old woman on the wall at the top of the cliff path."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch016",
+  "after": "Nobody said anything for a while.",
+  "image": "illustrations/n3-017-the-troop-arrives.webp",
+  "caption": "The troop comes up the mountain and sees the Hold."
+ },
+ {
+  "book": "neo",
+  "chapter": "116",
+  "after": "\"The realm is not one man's realm,\" he said.",
+  "image": "illustrations/neo-116-the-fishing-stone.webp",
+  "caption": "Two straight hooks on a winter pool."
+ },
+ {
+  "book": "neo",
+  "chapter": "117",
+  "after": "He was right. Han Xin had gone down on one knee in the dust of the gateway",
+  "image": "illustrations/neo-117-the-throat-wall.webp",
+  "caption": "Jiang Ziya at the Throat Wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "118",
+  "after": "\"These,\" he said to Han Xin, and pointed with his staff",
+  "image": "illustrations/neo-118-the-forty.webp",
+  "caption": "Jiang Ziya chooses the forty who need it most."
+ },
+ {
+  "book": "neo",
+  "chapter": "119",
+  "after": "\"Feed the first ones,\" said Jiang Ziya.",
+  "image": "illustrations/neo-119-the-council.webp",
+  "caption": "The month-end council hears that Guangzong has fallen."
+ },
+ {
+  "book": "neo",
+  "chapter": "120",
+  "after": "She looked up at him in the lantern light with her wide grave Eldari eyes",
+  "image": "illustrations/neo-120-the-lantern.webp",
+  "caption": "After Stage Eleven, the reckoning on the sand."
+ },
+ {
+  "book": "neo",
+  "chapter": "121",
+  "after": "Then one man walked down into the water from the far bank, alone, on foot, and began to wade across towards them.",
+  "image": "illustrations/neo-121-the-upper-ford.webp",
+  "caption": "Andika wades out to the first refugees."
+ },
+ {
+  "book": "neo",
+  "chapter": "122",
+  "after": "He did not pray for long. He never did.",
+  "image": "illustrations/neo-122-sunset-prayer.webp",
+  "caption": "Sunset prayer on the beach, and three fishermen beside him."
+ },
+ {
+  "book": "neo",
+  "chapter": "123",
+  "after": "She was tall for a woman of that age and that country",
+  "image": "illustrations/neo-123-the-queen.webp",
+  "caption": "Fu Hao comes out through the chariot ring."
+ },
+ {
+  "book": "neo",
+  "chapter": "124",
+  "after": "Fu Hao met him from the car.",
+  "image": "illustrations/neo-124-the-chariot.webp",
+  "caption": "The queen of Shang closes the door."
+ },
+ {
+  "book": "neo",
+  "chapter": "125",
+  "after": "Under the plum blossom banner, Aisyah stood very still for a moment when the queen stopped in front of her.",
+  "image": "illustrations/neo-125-her-reason.webp",
+  "caption": "Fu Hao chooses Lady Aisyah."
+ },
+ {
+  "book": "sah",
+  "chapter": "001",
+  "after": "Qiushui, Yue Ling thought. Autumn Water. Another thing she knew without knowing how.",
+  "image": "illustrations/sah-001-born-of-the-ford.webp",
+  "caption": "Born of the ford, on the first morning of the world."
+ },
+ {
+  "book": "sah",
+  "chapter": "002",
+  "after": "\"Now,\" she said, and stood up on the roof, and lifted White Lotus so that the moon caught the blade.",
+  "image": "illustrations/sah-002-the-granary-roof.webp",
+  "caption": "The signal on the granary roof."
+ },
+ {
+  "book": "sah",
+  "chapter": "003",
+  "after": "Wei Shan pointed upstream, to where the river bent around a wooded hill and disappeared.",
+  "image": "illustrations/sah-003-the-other-crossing.webp",
+  "caption": "Wei Shan shows her the other crossing."
+ },
+ {
+  "book": "sah",
+  "chapter": "004",
+  "after": "By mid-morning they could do it.",
+  "image": "illustrations/sah-004-push.webp",
+  "caption": "Two hundred farmers learn to push."
+ },
+ {
+  "book": "sah",
+  "chapter": "005",
+  "after": "She stepped up onto the top log of the wall",
+  "image": "illustrations/sah-005-pei-yuan.webp",
+  "caption": "Across the water, Yue Ling answers Pei Yuan."
+ },
+ {
+  "book": "sah",
+  "chapter": "006",
+  "after": "She rode Qiushui out onto the gravel bar on the far side of the island",
+  "image": "illustrations/sah-006-the-gravel-bar.webp",
+  "caption": "One rider, one spear, on the gravel bar."
+ },
+ {
+  "book": "sah",
+  "chapter": "007",
+  "after": "Nobody wants to stand in front of a horse coming out of a fire.",
+  "image": "illustrations/sah-007-through-the-fire.webp",
+  "caption": "Qiushui jumps the fire."
+ },
+ {
+  "book": "sah",
+  "chapter": "008",
+  "after": "They buried them at sunset.",
+  "image": "illustrations/sah-008-burial-at-sunset.webp",
+  "caption": "Seventeen graves at sunset."
+ },
+ {
+  "book": "sah",
+  "chapter": "009",
+  "after": "It was one of the four servants. The friendly one, who had given the children sweets.",
+  "image": "illustrations/sah-009-the-servant-on-the-wall.webp",
+  "caption": "Granny Rong catches a servant testing the green logs."
+ },
+ {
+  "book": "sah",
+  "chapter": "010",
+  "after": "Granny Rong stood at the foot of the wall with her arms folded",
+  "image": "illustrations/sah-010-duan-hong-arrives.webp",
+  "caption": "Lord Duan Hong comes to visit."
+ },
+ {
+  "book": "sah",
+  "chapter": "011",
+  "after": "Bai Lang came running out of the hall in his shirt",
+  "image": "illustrations/sah-011-the-ranking.webp",
+  "caption": "The first Lord Ranking lights the sky."
+ },
+ {
+  "book": "sah",
+  "chapter": "012",
+  "after": "It should have swept them away. It did not.",
+  "image": "illustrations/sah-012-the-swim.webp",
+  "caption": "Qiushui swims the dark river."
+ },
+ {
+  "book": "sah",
+  "chapter": "013",
+  "after": "By dusk the ditch was chest-deep",
+  "image": "illustrations/sah-013-the-barricade.webp",
+  "caption": "The village builds a trap at dusk."
+ },
+ {
+  "book": "sah",
+  "chapter": "014",
+  "after": "And through it all, at the heart of it, Old Mother Tang walked with her axe, unhurried, toward Yue Ling.",
+  "image": "illustrations/sah-014-old-mother-tang.webp",
+  "caption": "Old Mother Tang comes for Yue Ling."
+ },
+ {
+  "book": "sah",
+  "chapter": "015",
+  "after": "\"Don't let him,\" Bai Lang said.",
+  "image": "illustrations/sah-015-dont-let-him.webp",
+  "caption": "\"Don't let him have you.\""
+ },
+ {
+  "book": "sah",
+  "chapter": "016",
+  "after": "Then he let go, and stepped back, and turned, and walked down toward the ford without looking back.",
+  "image": "illustrations/sah-016-four-figures.webp",
+  "caption": "Bai Lang walks away south."
+ },
+ {
+  "book": "sah",
+  "chapter": "017",
+  "after": "On the fifth day, Duan Hong practised in the open ground in front of the lord's house, where everyone could see.",
+  "image": "illustrations/sah-017-duan-practises.webp",
+  "caption": "Duan Hong practises where everyone can see."
+ },
+ {
+  "book": "sah",
+  "chapter": "018",
+  "after": "He settled himself cross-legged across from her with great care",
+  "image": "illustrations/sah-018-tea-in-the-loft.webp",
+  "caption": "Qiu Wen brings tea to the hay loft."
+ },
+ {
+  "book": "sah",
+  "chapter": "019",
+  "after": "Not the blade. The butt.",
+  "image": "illustrations/sah-019-the-butt.webp",
+  "caption": "The butt of the spear, and the sun."
+ },
+ {
+  "book": "sah",
+  "chapter": "020",
+  "after": "On the wall above the gate, Wei Shan stood with her bow and watched them go.",
+  "image": "illustrations/sah-020-leaving-the-ford.webp",
+  "caption": "Thirty-four lives, and the road out."
+ },
+ {
+  "book": "sah",
+  "chapter": "021",
+  "after": "Thirty-four people knelt on the stones",
+  "image": "illustrations/sah-021-the-pardon.webp",
+  "caption": "The pardon oath at Yangzhai."
+ },
+ {
+  "book": "sah",
+  "chapter": "022",
+  "after": "She set up the straw bundles at forty paces in the reeds below the old mill",
+  "image": "illustrations/sah-022-the-children.webp",
+  "caption": "Wei Shan teaches the children to shoot."
+ },
+ {
+  "book": "neo",
+  "chapter": "126",
+  "after": "Inside was a child's straw sandal, very small and very worn, and a strip of yellow cloth with words written on it in a large, careful, fervent hand.",
+  "image": "illustrations/neo-126-the-sandal.webp",
+  "caption": "A sandal and a strip of yellow cloth."
+ },
+ {
+  "book": "neo",
+  "chapter": "127",
+  "after": "A man who knows where they are can walk across on them in the dark, up to his waist, and never lose his feet.\"",
+  "image": "illustrations/neo-127-the-weir-stones.webp",
+  "caption": "Grandfather Tian shows the weir stones."
+ },
+ {
+  "book": "neo",
+  "chapter": "128",
+  "after": "He simply walked up behind the four boys standing there, staring out at the sandbar, and when he was close enough he said, quietly, in an ordinary voice, \"Put your spears down, boys.",
+  "image": "illustrations/neo-128-the-sheepfold.webp",
+  "caption": "Zhi Guo comes over the back wall."
+ },
+ {
+  "book": "neo",
+  "chapter": "129",
+  "after": "He reached the sandbar and climbed up onto it, wet to the waist, and stood in the middle of it with the lantern held up beside his face, so that everybody on both banks could see who he was.",
+  "image": "illustrations/neo-129-the-sandbar.webp",
+  "caption": "The Count walks out alone."
+ },
+ {
+  "book": "neo",
+  "chapter": "130",
+  "after": "He did not move. He did not breathe. Behind him, he felt Ye Xing's fingers close very hard on his sleeve.",
+  "image": "illustrations/neo-130-lot-one.webp",
+  "caption": "Lot One: a page from an older Tower Record."
+ },
+ {
+  "book": "neo",
+  "chapter": "131",
+  "after": "When the first rafts were level with the middle ford, a single drum began to beat on the hill beside Ye Feng.",
+  "image": "illustrations/neo-131-the-drum.webp",
+  "caption": "Gong Bei's drum: rise and shoot."
+ },
+ {
+  "book": "neo",
+  "chapter": "132",
+  "after": "\"Lu Ping!\" screamed the old woman, in a cracked voice that carried all the way across the water.",
+  "image": "illustrations/neo-132-lu-ping.webp",
+  "caption": "A mother calls her son across the river."
+ },
+ {
+  "book": "neo",
+  "chapter": "133",
+  "after": "The next dawn, sixty new arrivals walked out of the gold light in the market square, Han farmers and craftsmen with nothing in their hands, blinking at the broken walls, and the Ledger wrote under them in its quiet gold:",
+  "image": "illustrations/neo-133-pingchang.webp",
+  "caption": "Pingchang: the first dawn under the token."
+ },
+ {
+  "book": "neo",
+  "chapter": "134",
+  "after": "He prayed alone at sunset on the headland, below the Xingmu, with his coat for a mat and his face to the western hills, as he did when there was time and quiet enough.",
+  "image": "illustrations/neo-134-sunset-prayer.webp",
+  "caption": "Sunset prayer below the Xingmu."
+ },
+ {
+  "book": "neo",
+  "chapter": "135",
+  "after": "\"You drew the Northern Dipper for me in the mud,\" said Ah Ru.",
+  "image": "illustrations/neo-135-the-open-court.webp",
+  "caption": "Ah Ru speaks at Wang Meng's open court."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch018",
+  "after": "Then his grey went sideways, very lightly, the way a dancer steps aside, and the long lance went past his ribs by a hand's breadth, and Zhao Tong's spear came round in a short flat arc and struck the Wei rider across the back of the helmet with the shaft.",
+  "image": "illustrations/n3-018-the-stream-duel.webp",
+  "caption": "Zhao Tong in the stream."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch019",
+  "after": "\"Hold,\" said Ye Zhen, quite quietly.",
+  "image": "illustrations/n3-019-the-crescent.webp",
+  "caption": "The First Hundred holds the bend."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch020",
+  "after": "The Wei line broke in front of him like a pot dropped on a stone floor.",
+  "image": "illustrations/n3-020-the-ridge.webp",
+  "caption": "The ridge charge."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch021",
+  "after": "One short. She had counted one short.",
+  "image": "illustrations/n3-021-one-short.webp",
+  "caption": "She counted one short."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch022",
+  "after": "They sat in the boat together.",
+  "image": "illustrations/n3-022-the-boat.webp",
+  "caption": "The King in the fisherman's boat."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch023",
+  "after": "Then he got on it, with a pole, and took it out across the slack water along the edge of the old riverbed, and came back an hour later with eleven people on it, and his contempt did not change at all.",
+  "image": "illustrations/n3-023-door-rafts.webp",
+  "caption": "Rafts made of barn doors."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch024",
+  "after": "He let himself sink further, to the plinth, and put one hand on the cold stone to steady himself, and looked up at the spear.",
+  "image": "illustrations/n3-024-the-drowned-spear.webp",
+  "caption": "The spear that is waiting."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch025",
+  "after": "Zhou Shao stood in the bow of the leading barge through every one of them with a sweep in his hands and his face perfectly calm, shouting the line back to the boat behind him, and the boat behind shouted it to the next, and the whole long fleet went down through the gorges one after another like beads on a string, and not one of them struck the rock sideways.",
+  "image": "illustrations/n3-025-the-gorges.webp",
+  "caption": "Down the Ru in flood."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch026",
+  "after": "They met in the middle.",
+  "image": "illustrations/n3-026-father-and-sons.webp",
+  "caption": "Father and sons, back to back."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch027",
+  "after": "Lord Zhou Dou cleared his throat, and read aloud, from the empty air.",
+  "image": "illustrations/n3-027-the-world-chat.webp",
+  "caption": "A lord reads the world chat aloud."
+ },
+ {
+  "book": "sah",
+  "chapter": "023",
+  "after": "It rolled.",
+  "image": "illustrations/sah-023-the-rolling-stone.webp",
+  "caption": "His foot finds the rolling stone."
+ },
+ {
+  "book": "sah",
+  "chapter": "024",
+  "after": "She watched him for a long time.",
+  "image": "illustrations/sah-024-the-marsh-fire.webp",
+  "caption": "One arrow, twelve paces."
+ },
+ {
+  "book": "sah",
+  "chapter": "025",
+  "after": "And one by one, she cut their weights off with Old Bian's knife, and dropped the nets down the well, all eleven of them, where they would be a very great nuisance to anyone who wanted water at the post station, and of no use whatever to anyone who wanted to catch a girl with a spear.",
+  "image": "illustrations/sah-025-nets-in-the-well.webp",
+  "caption": "Eleven nets down the well."
+ },
+ {
+  "book": "sah",
+  "chapter": "026",
+  "after": "The Yellow River had no far bank.",
+  "image": "illustrations/sah-026-no-far-bank.webp",
+  "caption": "The river with no far bank."
+ },
+ {
+  "book": "sah",
+  "chapter": "027",
+  "after": "Qiushui swam.",
+  "image": "illustrations/sah-027-the-road-of-fog.webp",
+  "caption": "A road of fog across the Yellow River."
+ },
+ {
+  "book": "sah",
+  "chapter": "028",
+  "after": "The old salt carrier came forward without another word and put a hard brown hand on Xiao Hu's forehead, and then on the side of his neck, and pulled down one eyelid with his thumb, and looked, and grunted.",
+  "image": "illustrations/sah-028-old-kong.webp",
+  "caption": "Old Kong on the Taihang road."
+ },
+ {
+  "book": "sah",
+  "chapter": "029",
+  "after": "A soft, clear, pearly light ran up the shaft from the woman's hands to the head of the spear, the way light runs up a lotus stem in the morning when the sun first touches the pond, and for a breath the whole narrow path between the rocks was lit by it.",
+  "image": "illustrations/sah-029-the-bright-spear.webp",
+  "caption": "White Lotus, bright for a breath."
+ },
+ {
+  "book": "sah",
+  "chapter": "030",
+  "after": "He looked at all of it slowly, carefully, the way Yue Ling herself would have looked, and she saw him understand it, piece by piece, without being told.",
+  "image": "illustrations/sah-030-northwolf.webp",
+  "caption": "Lord NorthWolf at Stone Cup."
+ },
+ {
+  "book": "sah",
+  "chapter": "031",
+  "after": "They broke the bank.",
+  "image": "illustrations/sah-031-breaking-the-bank.webp",
+  "caption": "The Fen comes through the bank."
+ },
+ {
+  "book": "sah",
+  "chapter": "032",
+  "after": "A thousand frightened horses running down a river valley make a sound like the end of the world.",
+  "image": "illustrations/sah-032-the-stampede.webp",
+  "caption": "A thousand horses into the flood."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch001",
+  "after": "He put his heels to Heiyue, and the black horse went down the ridge like a stone off a cliff.",
+  "image": "illustrations/ecl-001-the-last-charge.webp",
+  "caption": "The last charge of the Blackmoon Troop toward the drowned shrine."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch002",
+  "after": "The tower above him had come close at last.",
+  "image": "illustrations/ecl-002-the-ladder.webp",
+  "caption": "Rising up the ladder through the black light."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch003",
+  "after": "And something in him went down the branch with it.",
+  "image": "illustrations/ecl-003-the-branch.webp",
+  "caption": "A pine branch against an iron-backed wolf."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch004",
+  "after": "They gave him a room on the second terrace: a narrow white cell with a window on the cloud sea, a sleeping mat, a lamp, a basin, and a hook on the wall.",
+  "image": "illustrations/ecl-004-azure-cloud-mountain.webp",
+  "caption": "Azure Cloud Mountain above the Greywood."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch005",
+  "after": "And every day, the seven rivers poured into him, and the sea of breath drank them, and stayed almost dry.",
+  "image": "illustrations/ecl-005-seven-rivers.webp",
+  "caption": "Seven rivers pouring into an empty sea."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch006",
+  "after": "Zhao Kun went over backwards.",
+  "image": "illustrations/ecl-006-out-of-the-line.webp",
+  "caption": "Out of the line, with a cracked ash pole."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch007",
+  "after": "until the sand was trampled flat and the sky over the cloud sea had gone grey.",
+  "image": "illustrations/ecl-007-the-white-sand-sword.webp",
+  "caption": "The Long Tide, all night on the white sand."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch008",
+  "after": "Black, where the rest of the rock was grey.",
+  "image": "illustrations/ecl-008-the-dead-cultivator-sword.webp",
+  "caption": "Wen Shu's last words."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch009",
+  "after": "Ye Shuo sat down on the step beside her, and waited, the way he had waited at the Hold.",
+  "image": "illustrations/ecl-009-willow-bend-sword.webp",
+  "caption": "Thirty-one years."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch010",
+  "after": "Ye Shuo felt the skin on the back of his neck go cold.",
+  "image": "illustrations/ecl-010-the-faceless-shrine-sword.webp",
+  "caption": "A face that is not his own."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch011",
+  "after": "\"Yield,\" Gu Ming said, through his teeth, and turned, and walked off the platform without picking up his sword.",
+  "image": "illustrations/ecl-011-cloud-splitting-sword.webp",
+  "caption": "A broken art."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch012",
+  "after": "A sliver of pale stone, as thin as paper and as wide as his palm, slid off the wall and fell to the floor.",
+  "image": "illustrations/ecl-012-the-deep-current-sword.webp",
+  "caption": "The Deep Current."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch013",
+  "after": "At the same moment, her blade touched the side of his throat.",
+  "image": "illustrations/ecl-013-forty-two-and-one-sword.webp",
+  "caption": "Forty-two, and one."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch014",
+  "after": "It touched the net.",
+  "image": "illustrations/ecl-014-the-net-sword.webp",
+  "caption": "A thread through the net."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch015",
+  "after": "Later, on the path back to the Azure Cloud house, with the lanterns of the feast hall behind them and the river black and quiet on either side of the island, Qin Yao fell into step beside him.",
+  "image": "illustrations/ecl-015-the-feast.webp",
+  "caption": "The king's feast in the hall of a thousand lanterns."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch016",
+  "after": "Liu Feng stood absolutely still. Her eyes went very wide.",
+  "image": "illustrations/ecl-016-the-fifth-ring-sword.webp",
+  "caption": "The fifth ring."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch017",
+  "after": "And then, for the first time in his life, Lin Hao of the Azure Cloud Sect gave ground.",
+  "image": "illustrations/ecl-017-step-back.webp",
+  "caption": "The step back."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch018",
+  "after": "And every mirror in the hall cracked.",
+  "image": "illustrations/ecl-018-ten-thousand-reflections-sword.webp",
+  "caption": "He went under them."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch019",
+  "after": "And the point of the grey sword was resting, very lightly, against the hollow of her throat.",
+  "image": "illustrations/ecl-019-the-frozen-lake-sword.webp",
+  "caption": "A cut shoulder, a sword at the throat."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch020",
+  "after": "And the nine suns went out.",
+  "image": "illustrations/ecl-020-nine-suns-sword.webp",
+  "caption": "The nine suns go out."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch021",
+  "after": "Hundred Streams Return to the Sea.",
+  "image": "illustrations/ecl-021-hundred-streams.webp",
+  "caption": "Hundred Streams Return to the Sea."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch022",
+  "after": "It went through the palm. Through the wrist. Through the arm. Through the shoulder.",
+  "image": "illustrations/ecl-022-the-ford-sword.webp",
+  "caption": "The ford below Willow Bend."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch023",
+  "after": "The Sunken Palace stopped rising when its door was level with the surface of the river, at the bottom of the funnel, a long way down.",
+  "image": "illustrations/ecl-023-the-sunken-palace-sword.webp",
+  "caption": "The Sunken Palace rises."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch024",
+  "after": "Then it parted in front of him like a curtain.",
+  "image": "illustrations/ecl-024-the-phoenix-egg-sword.webp",
+  "caption": "She chose him."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch025",
+  "after": "And then, before he could answer, the black ring on his finger went cold as winter, and then warm, and then something in it opened.",
+  "image": "illustrations/ecl-025-holding-the-door.webp",
+  "caption": "Holding the door through seven bolts."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch026",
+  "after": "He went into the inner world for the first time that night, alone, in the narrow room, with the door shut and the egg in his lap.",
+  "image": "illustrations/ecl-026-the-inner-world.webp",
+  "caption": "The inner world opens."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch027",
+  "after": "The red door stood in the corner of the outer elders' courtyard on the fourth terrace, exactly as it had stood all year: plain, dark red, with a brass ring for a handle.",
+  "image": "illustrations/ecl-027-the-black-room.webp",
+  "caption": "The black room."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch028",
+  "after": "They held the water stairs for most of that night.",
+  "image": "illustrations/ecl-028-the-water-stairs-sword.webp",
+  "caption": "Holding the water stairs."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch029",
+  "after": "The seven swords fell.",
+  "image": "illustrations/ecl-029-the-seven-stars-sword.webp",
+  "caption": "The Seven Stars fall."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch030",
+  "after": "He did not look back. He had learned a long time ago, riding out of the gate of the Blackmoon Hold with a woman standing on the steps behind him, that if you looked back, you never left.",
+  "image": "illustrations/ecl-030-walking-west-sword.webp",
+  "caption": "He doesn't look back."
+ },
+ {
+  "book": "neo",
+  "chapter": "136",
+  "after": "Then he went down on one knee on the cold flagstones of the yard, and held out both hands.",
+  "image": "illustrations/neo-136-on-one-knee.webp",
+  "caption": "The imperial letter, received kneeling."
+ },
+ {
+  "book": "neo",
+  "chapter": "137",
+  "after": "Each bundle was one roof.",
+  "image": "illustrations/neo-137-a-thousand-roofs.webp",
+  "caption": "Forty crews, one roof at a time."
+ },
+ {
+  "book": "neo",
+  "chapter": "138",
+  "after": "The minister was right about the list, child. It's very long. I don't want to get any of them wrong.\"",
+  "image": "illustrations/neo-138-the-names-on-the-roof.webp",
+  "caption": "Practising the names."
+ },
+ {
+  "book": "neo",
+  "chapter": "139",
+  "after": "They watched the riders come down the valley with no expression at all.",
+  "image": "illustrations/neo-139-smoke-in-the-hills.webp",
+  "caption": "The remnant camp in the snow."
+ },
+ {
+  "book": "neo",
+  "chapter": "140",
+  "after": "Then he took two steps, and reached up with one enormous hand, and caught the falling pole.",
+  "image": "illustrations/neo-140-the-banner-pole.webp",
+  "caption": "Dian Wei catches the pole."
+ },
+ {
+  "book": "neo",
+  "chapter": "141",
+  "after": "[Battles: 8. Fallen: 41. Wounded: 115.]",
+  "image": "illustrations/neo-141-the-terrace-kingdom.webp",
+  "caption": "Stage Twelve: the Terrace Kingdom."
+ },
+ {
+  "book": "neo",
+  "chapter": "142",
+  "after": "He held it out, haft first, and Dian Wei took it from him in one hand, as easily as a walking stick, and stood up.",
+  "image": "illustrations/neo-142-the-oath-in-the-frost.webp",
+  "caption": "Two iron halberds in the frost."
+ },
+ {
+  "book": "neo",
+  "chapter": "143",
+  "after": "Ye Feng looked at the paper ox in his palm, with its red horns and its straw tail, and found that he could not quite speak for a moment.",
+  "image": "illustrations/neo-143-the-paper-ox.webp",
+  "caption": "A paper ox for luck."
+ },
+ {
+  "book": "neo",
+  "chapter": "144",
+  "after": "He had come down the ramp from the north wall at a run when he heard the bar, and now he walked through the crowd of Jimo men as if they were reeds, and put his back against the gate.",
+  "image": "illustrations/neo-144-dont-open-the-gate.webp",
+  "caption": "Dian Wei holds the gate shut."
+ },
+ {
+  "book": "neo",
+  "chapter": "145",
+  "after": "Only the drum, and the thunder of hooves, and the bellowing, and the soft fast rush of five thousand pairs of feet on frozen earth, and in every one of those five thousand faces, Ye Feng knew, the memory of a grave.",
+  "image": "illustrations/neo-145-a-thousand-brave-oxen.webp",
+  "caption": "The fire oxen."
+ },
+ {
+  "book": "sah",
+  "chapter": "033",
+  "after": "Yue Ling saw the first man draw, and the girl on the bridge see him, and set her feet, and lift the great halberd across her body as if she meant to knock the arrow out of the air.",
+  "image": "illustrations/sah-033-the-girl-on-the-bridge.webp",
+  "caption": "The girl on the bridge."
+ },
+ {
+  "book": "sah",
+  "chapter": "034",
+  "after": "He came down at a walk, on a tall black horse with a white blaze, and as he came closer Yue Ling understood that she had never seen a man like him before and probably never would again.",
+  "image": "illustrations/sah-034-the-frontier-rider.webp",
+  "caption": "Lu Bu comes down from the pass."
+ },
+ {
+  "book": "sah",
+  "chapter": "035",
+  "after": "His smile grew wider. \"But I'm afraid they'll have to live by my rules. And the first rule is, nobody leaves.\"",
+  "image": "illustrations/sah-035-nobody-leaves.webp",
+  "caption": "Lord Han Zheng of Fishwater."
+ },
+ {
+  "book": "sah",
+  "chapter": "036",
+  "after": "A girl of fifteen, because the boy she was going to marry had hidden in the woods when the steppe riders came, and had come back, and was standing just inside the gate of Fishwater with a new spear in his hand and tears running down his face.",
+  "image": "illustrations/sah-036-fishwater.webp",
+  "caption": "Four of the seven stayed."
+ },
+ {
+  "book": "sah",
+  "chapter": "037",
+  "after": "Lu Bu looked down at the place where the leather-bound point had touched him, and then up at her, and his face lit up with pure astonished delight.",
+  "image": "illustrations/sah-037-the-bout-on-the-ice.webp",
+  "caption": "The touch on the ice."
+ },
+ {
+  "book": "sah",
+  "chapter": "038",
+  "after": "She had simply put more on the ledge.",
+  "image": "illustrations/sah-038-the-bakers-window.webp",
+  "caption": "Mother Tang's window."
+ },
+ {
+  "book": "sah",
+  "chapter": "039",
+  "after": "Fire bloomed in the Notch.",
+  "image": "illustrations/sah-039-fire-in-the-notch.webp",
+  "caption": "Fire in the Notch."
+ },
+ {
+  "book": "sah",
+  "chapter": "040",
+  "after": "One by one, the others let go.",
+  "image": "illustrations/sah-040-what-the-well-holds.webp",
+  "caption": "The children let go."
+ },
+ {
+  "book": "sah",
+  "chapter": "041",
+  "after": "Lu Bu watched him write with an expression Yue Ling had never seen on his face before.",
+  "image": "illustrations/sah-041-the-paddock-at-dawn.webp",
+  "caption": "Three waves at dawn."
+ },
+ {
+  "book": "sah",
+  "chapter": "042",
+  "after": "It was warm from his coat.",
+  "image": "illustrations/sah-042-the-rope-knife.webp",
+  "caption": "His father's rope knife."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch028",
+  "after": "Then he nodded once, and Ye Shuo broke the seal.",
+  "image": "illustrations/n3-028-the-letter.webp",
+  "caption": "A letter from Cao Pi."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch029",
+  "after": "Quietly, carefully angry, in a way he had never seen in her before, and it made her look, for a moment, very much like his mother.",
+  "image": "illustrations/n3-029-the-inkstone.webp",
+  "caption": "An inkstone for Lady Fan."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch030",
+  "after": "They came into Langya on the sixth day, and the whole land changed.",
+  "image": "illustrations/n3-030-langya.webp",
+  "caption": "Into Langya."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch031",
+  "after": "\"There you are,\" said Huang Zhong.",
+  "image": "illustrations/n3-031-the-old-archer.webp",
+  "caption": "Huang Zhong's last morning."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch032",
+  "after": "The arrow went up into the bright morning sky over the sea, so high that for a moment it was lost in the sun, and then came down, far out, beyond the harbour wall, and was gone.",
+  "image": "illustrations/n3-032-the-arrow-over-the-sea.webp",
+  "caption": "One arrow for the General."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch033",
+  "after": "They played on the sand table until the lamp burned low.",
+  "image": "illustrations/n3-033-the-sand-table.webp",
+  "caption": "Han Xin's sand table."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch034",
+  "after": "Above them, the leaves of the Xingmu had gone still.",
+  "image": "illustrations/n3-034-under-the-xingmu.webp",
+  "caption": "Under the Xingmu."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch035",
+  "after": "I am a reckoner, General. I do not give anything away without seeing the accounts.\"",
+  "image": "illustrations/n3-035-master-fans-accounts.webp",
+  "caption": "Master Fan's accounts."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch036",
+  "after": "Ye Shuo let him.",
+  "image": "illustrations/n3-036-tiger-and-leopard.webp",
+  "caption": "Cao Xiu at the marker stone."
+ },
+ {
+  "book": "bmt",
+  "chapter": "ch037",
+  "after": "Ye Shuo went in under the cane, short and fast, the way he went in under a lance on the battlefield, and the end of his own green stalk came to rest, very lightly, in the middle of the King of Wei's chest, just below the collarbone, where a spearhead would have gone through.",
+  "image": "illustrations/n3-037-sugarcane.webp",
+  "caption": "The sugarcane bout."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch031",
+  "after": "The first arrows hit the guards at the arch before anyone had shouted.",
+  "image": "illustrations/ecl-031-bell-pass.webp",
+  "caption": "Ambush at Bell Pass."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch032",
+  "after": "The town was called Ninefold Ford, because nine roads met there, and it sat on both banks of a broad green river where three smaller rivers came down out of the mountains to join it.",
+  "image": "illustrations/ecl-032-ninefold-ford.webp",
+  "caption": "Ninefold Ford."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch033",
+  "after": "And the man in front, the Foundation Establishment, turned from Little Shu and came for Ye Shuo along the quay like a shadow moving across water.",
+  "image": "illustrations/ecl-033-the-quay.webp",
+  "caption": "The fight on the quay."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch034",
+  "after": "She looked up at the Warden's tower with a kind, interested expression, the way a teacher looks at a new schoolhouse.",
+  "image": "illustrations/ecl-034-teacher-hui.webp",
+  "caption": "Teacher Hui arrives."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch035",
+  "after": "\"Draw it,\" said the Sword Elder of Skyreach.",
+  "image": "illustrations/ecl-035-draw-it.webp",
+  "caption": "\"Draw it.\""
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch036",
+  "after": "Then he looked along the gallery, and saw, at the far end, standing in the red light with her arms folded and her face pale and furious, Ling Shuang.",
+  "image": "illustrations/ecl-036-the-seventh-chain-note.webp",
+  "caption": "The challenge."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch037",
+  "after": "Ye Shuo stepped past him.",
+  "image": "illustrations/ecl-037-the-deep-current.webp",
+  "caption": "The Deep Current."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch038",
+  "after": "Ye Shuo stood behind Ling Shuang on the white sword, high above the lake in the last of the light, and let the Divine Eyes open on the island.",
+  "image": "illustrations/ecl-038-the-black-lake.webp",
+  "caption": "Over the black lake."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch039",
+  "after": "And in every one of them, lying very still on a bed of grey cloth with their eyes closed and their hands folded on their chests, a child.",
+  "image": "illustrations/ecl-039-the-cradles.webp",
+  "caption": "The hollow of cradles."
+ },
+ {
+  "book": "ecl",
+  "chapter": "ch040",
+  "after": "A sound. Very small. Very clear. Like ice cracking on a pond in the first warm morning of spring.",
+  "image": "illustrations/ecl-040-the-first-crack.webp",
+  "caption": "The first crack."
+ }
 ]
